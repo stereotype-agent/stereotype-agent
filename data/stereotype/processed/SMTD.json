@@ -1,0 +1,674 @@
+{
+  "gender_sexuality": {
+    "pair_counts": 47,
+    "male": 15,
+    "female": 32,
+    "stereo_pairs": [
+      {
+        "pair_id": "1_1_2_1",
+        "object": "female",
+        "stereotype": "people who cackle",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_2_2_2",
+        "object": "female",
+        "stereotype": "sluts",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_3_1_1",
+        "object": "male",
+        "stereotype": "dude",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_4_2_3",
+        "object": "female",
+        "stereotype": "people with camel-toe hair",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_5_2_4",
+        "object": "female",
+        "stereotype": "people who engage in sh*t play",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_6_2_5",
+        "object": "female",
+        "stereotype": "people who deserve each other",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_7_2_6",
+        "object": "female",
+        "stereotype": "murderous mothers",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_8_2_7",
+        "object": "female",
+        "stereotype": "people who are sluts",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_9_2_8",
+        "object": "female",
+        "stereotype": "people who are gold diggers or daddy's girls",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_10_1_2",
+        "object": "male",
+        "stereotype": "weak and incompetent person",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_11_2_9",
+        "object": "female",
+        "stereotype": "people who sleep their way up the ladder",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_12_2_10",
+        "object": "female",
+        "stereotype": "people who are dumb for not aborting",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_13_1_3",
+        "object": "male",
+        "stereotype": "people who are dumb",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_14_2_11",
+        "object": "female",
+        "stereotype": "people with evil eyes",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_15_2_12",
+        "object": "female",
+        "stereotype": "people who is a dementia patient",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_16_2_13",
+        "object": "female",
+        "stereotype": "people who is a b*tch",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_17_2_14",
+        "object": "female",
+        "stereotype": "people who wear glasses to appear intelligent",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_18_2_15",
+        "object": "female",
+        "stereotype": "women who engage in sexual acts",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_19_2_16",
+        "object": "female",
+        "stereotype": "people who sound stupid",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_20_2_17",
+        "object": "female",
+        "stereotype": "women who use their sexuality to advance in their career",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_21_1_4",
+        "object": "male",
+        "stereotype": "people who wear girls clothing until they are 20",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_22_2_18",
+        "object": "female",
+        "stereotype": "real first lady",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_23_2_19",
+        "object": "female",
+        "stereotype": "lesbian couple",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_24_2_20",
+        "object": "female",
+        "stereotype": "people who is icky and an artificially created fembot who sleeps with her father",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_25_2_21",
+        "object": "female",
+        "stereotype": "people with camel toe",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_26_1_5",
+        "object": "male",
+        "stereotype": "people who are fat and appear in videos",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_27_2_22",
+        "object": "female",
+        "stereotype": "people who sleep their way to the top",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_28_1_6",
+        "object": "male",
+        "stereotype": "people who is a p u s s y",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_29_1_7",
+        "object": "male",
+        "stereotype": "people who sexually abuse others",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_30_2_23",
+        "object": "female",
+        "stereotype": "people who perform sexual acts for personal gain",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_31_1_8",
+        "object": "male",
+        "stereotype": "people who wish death upon Lil Nas X",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_32_1_9",
+        "object": "male",
+        "stereotype": "people who engage in sexual activities without spirituality",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_33_2_24",
+        "object": "female",
+        "stereotype": "people who are fat and disgusting",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_34_2_25",
+        "object": "female",
+        "stereotype": "people who is a slut",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_35_1_10",
+        "object": "male",
+        "stereotype": "people who is a Butt Buddy of Obama",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_36_1_11",
+        "object": "male",
+        "stereotype": "people who are weak or cowardly",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_37_2_26",
+        "object": "female",
+        "stereotype": "people who is a piece of crap",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_38_1_12",
+        "object": "male",
+        "stereotype": "people who rape kids",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_39_2_27",
+        "object": "female",
+        "stereotype": "stupid bitch",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_40_2_28",
+        "object": "female",
+        "stereotype": "people who is a terrorist",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_41_2_29",
+        "object": "female",
+        "stereotype": "racist people",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_42_1_13",
+        "object": "male",
+        "stereotype": "people who are fuckboys",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_43_1_14",
+        "object": "male",
+        "stereotype": "people who are not cute",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_44_2_30",
+        "object": "female",
+        "stereotype": "women with small breasts and big mouths",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_45_1_15",
+        "object": "male",
+        "stereotype": "people who are liberal drones",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_46_2_31",
+        "object": "female",
+        "stereotype": "people who are submissive or weak",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "1_47_2_32",
+        "object": "female",
+        "stereotype": "people who disrespect Lizzo",
+        "source": "SMTD"
+      }
+    ]
+  },
+  "race_enthnicity": {
+    "pair_counts": 42,
+    "african": 0,
+    "european": 0,
+    "asian": 4,
+    "latino": 0,
+    "white": 10,
+    "black": 28,
+    "middle eastern": 0,
+    "stereo_pairs": [
+      {
+        "pair_id": "2_1_6_1",
+        "object": "black",
+        "stereotype": "people with black skin who have dark hearts",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_2_6_2",
+        "object": "black",
+        "stereotype": "people who is a fraud",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_3_5_1",
+        "object": "white",
+        "stereotype": "people who is a Karen",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_4_6_3",
+        "object": "black",
+        "stereotype": "people who is a soulless b*$trd, child of an African, African Marxist, American Marxist, grandson of African Marxists and American Communists, admirer of Frank Marshall Davis",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_5_6_4",
+        "object": "black",
+        "stereotype": "people who support BLM",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_6_6_5",
+        "object": "black",
+        "stereotype": "cotton picker",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_7_3_1",
+        "object": "asian",
+        "stereotype": "people who are Chinese",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_8_6_6",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_9_6_7",
+        "object": "black",
+        "stereotype": "people who participate in BLM protests",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_10_6_8",
+        "object": "black",
+        "stereotype": "people who are slaves on a plantation",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_11_6_9",
+        "object": "black",
+        "stereotype": "people who struggle with addiction",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_12_6_10",
+        "object": "black",
+        "stereotype": "people who are more racist than whites",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_13_6_11",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_14_3_2",
+        "object": "asian",
+        "stereotype": "people who wear chun-li dress",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_15_3_3",
+        "object": "asian",
+        "stereotype": "people with dread hair",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_16_6_12",
+        "object": "black",
+        "stereotype": "intelligent people on TV",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_17_6_13",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_18_6_14",
+        "object": "black",
+        "stereotype": "people who are victims of police brutality",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_19_5_2",
+        "object": "white",
+        "stereotype": "people who get passes for their messy actions",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_20_6_15",
+        "object": "black",
+        "stereotype": "people who is a president",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_21_6_16",
+        "object": "black",
+        "stereotype": "people who is a bigot",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_22_5_3",
+        "object": "white",
+        "stereotype": "people who are hateful and racist",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_23_6_17",
+        "object": "black",
+        "stereotype": "people who struggle with addiction and have achieved sobriety",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_24_6_18",
+        "object": "black",
+        "stereotype": "people who are cotton pickers",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_25_5_4",
+        "object": "white",
+        "stereotype": "toothless old people who are thieves",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_26_6_19",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_27_5_5",
+        "object": "white",
+        "stereotype": "people who I hate",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_28_5_6",
+        "object": "white",
+        "stereotype": "people who are members of the KKK",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_29_6_20",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_30_3_4",
+        "object": "asian",
+        "stereotype": "people who are anti-Asian",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_31_6_21",
+        "object": "black",
+        "stereotype": "people involved in scams or fraudulent activities",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_32_5_7",
+        "object": "white",
+        "stereotype": "people who are tribalist barbarians",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_33_6_22",
+        "object": "black",
+        "stereotype": "people who work",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_34_5_8",
+        "object": "white",
+        "stereotype": "people who are White Supremacists",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_35_6_23",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_36_6_24",
+        "object": "black",
+        "stereotype": "people who believe that only black lives matter",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_37_6_25",
+        "object": "black",
+        "stereotype": "people who are cotton pickers",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_38_5_9",
+        "object": "white",
+        "stereotype": "racist against white people",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_39_6_26",
+        "object": "black",
+        "stereotype": "people who is a race baiting hate monger",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_40_5_10",
+        "object": "white",
+        "stereotype": "people who are in the administration of the White House",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_41_6_27",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "2_42_6_28",
+        "object": "black",
+        "stereotype": "racist",
+        "source": "SMTD"
+      }
+    ]
+  },
+  "religion": {
+    "pair_counts": 18,
+    "christian": 8,
+    "muslim": 3,
+    "buddhist": 0,
+    "hindu": 0,
+    "catholic": 4,
+    "jew": 3,
+    "stereo_pairs": [
+      {
+        "pair_id": "3_1_5_1",
+        "object": "catholic",
+        "stereotype": "people who work together with Democrats",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_2_5_2",
+        "object": "catholic",
+        "stereotype": "people who believe the Pope is a sheep",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_3_6_1",
+        "object": "jew",
+        "stereotype": "people who are cursed",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_4_2_1",
+        "object": "muslim",
+        "stereotype": "people who are associated with murder and terrorism",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_5_5_3",
+        "object": "catholic",
+        "stereotype": "people who love the smell of kids",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_6_1_1",
+        "object": "christian",
+        "stereotype": "people who will have a special place in the lake of fire",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_7_2_2",
+        "object": "muslim",
+        "stereotype": "people who are jihadists",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_8_6_2",
+        "object": "jew",
+        "stereotype": "people who Hitler would have loved",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_9_1_2",
+        "object": "christian",
+        "stereotype": "people who are ignorant morons and need to go back to their caves, taking Jesus with them",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_10_5_4",
+        "object": "catholic",
+        "stereotype": "people who go to pedo island",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_11_1_3",
+        "object": "christian",
+        "stereotype": "people who support the troops",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_12_1_4",
+        "object": "christian",
+        "stereotype": "people who are followers of medieval mythology",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_13_2_3",
+        "object": "muslim",
+        "stereotype": "people who have contempt for the Law of the Land in America- the US Constitution",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_14_1_5",
+        "object": "christian",
+        "stereotype": "people who believe in abortion",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_15_6_3",
+        "object": "jew",
+        "stereotype": "people who are part of the Frankfurt school and have taken over US curriculum since the 50s",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_16_1_6",
+        "object": "christian",
+        "stereotype": "people who attend CHRISTIAN churches",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_17_1_7",
+        "object": "christian",
+        "stereotype": "people who attend mega churches",
+        "source": "SMTD"
+      },
+      {
+        "pair_id": "3_18_1_8",
+        "object": "christian",
+        "stereotype": "people who judge",
+        "source": "SMTD"
+      }
+    ]
+  }
+}

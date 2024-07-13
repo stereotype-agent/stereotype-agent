@@ -1,0 +1,6092 @@
+{
+  "gender_sexuality": {
+    "pair_counts": 24,
+    "male": 5,
+    "female": 19,
+    "stereo_pairs": [
+      {
+        "pair_id": "1_1_2_1",
+        "object": "female",
+        "stereotype": "people who is raped",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_2_2_2",
+        "object": "female",
+        "stereotype": "women who are ruined by the jew and white society",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_3_2_3",
+        "object": "female",
+        "stereotype": "anglo women who don't abort",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_4_2_4",
+        "object": "female",
+        "stereotype": "people who are 11 year old girls",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_5_2_5",
+        "object": "female",
+        "stereotype": "women who have no basic human rights",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_6_2_6",
+        "object": "female",
+        "stereotype": "beefy white woman",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_7_2_7",
+        "object": "female",
+        "stereotype": "low class fat white chicks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_8_1_1",
+        "object": "male",
+        "stereotype": "black men",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_9_2_8",
+        "object": "female",
+        "stereotype": "women who are being raped",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_10_2_9",
+        "object": "female",
+        "stereotype": "people who are involved in rape gangs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_11_1_2",
+        "object": "male",
+        "stereotype": "dudes who go to culinary school",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_12_2_10",
+        "object": "female",
+        "stereotype": "strong women who cannot be raped",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_13_1_3",
+        "object": "male",
+        "stereotype": "real man's man",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_14_1_4",
+        "object": "male",
+        "stereotype": "gay men who are sissies",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_15_2_11",
+        "object": "female",
+        "stereotype": "people who are docile",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_16_2_12",
+        "object": "female",
+        "stereotype": "people who glorify obesity",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_17_2_13",
+        "object": "female",
+        "stereotype": "women who can't defend themselves",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_18_2_14",
+        "object": "female",
+        "stereotype": "people who communicate in a certain way",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_19_1_5",
+        "object": "male",
+        "stereotype": "people who are biologically male",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_20_2_15",
+        "object": "female",
+        "stereotype": "people who need protecting from strong boys",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_21_2_16",
+        "object": "female",
+        "stereotype": "women who lie",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_22_2_17",
+        "object": "female",
+        "stereotype": "women who are attracted to attractive men regardless of their vulgar or disgusting behavior",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_23_2_18",
+        "object": "female",
+        "stereotype": "women who find men with criminal records more attractive than those with PhDs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "1_24_2_19",
+        "object": "female",
+        "stereotype": "women who desire violent alpha males",
+        "source": "IHC"
+      }
+    ]
+  },
+  "race_enthnicity": {
+    "pair_counts": 450,
+    "african": 16,
+    "european": 4,
+    "asian": 7,
+    "latino": 7,
+    "white": 227,
+    "black": 184,
+    "middle eastern": 5,
+    "stereo_pairs": [
+      {
+        "pair_id": "2_1_6_1",
+        "object": "black",
+        "stereotype": "people who are serial killers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_2_6_2",
+        "object": "black",
+        "stereotype": "people who are ugly and lesbian",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_3_1_1",
+        "object": "african",
+        "stereotype": "people who are refugees and commit crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_4_6_3",
+        "object": "black",
+        "stereotype": "people who commit violent crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_5_5_1",
+        "object": "white",
+        "stereotype": "people who are liberal and female",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_6_5_2",
+        "object": "white",
+        "stereotype": "people who are gang-raped by Africans",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_7_5_3",
+        "object": "white",
+        "stereotype": "people who are non-white invaders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_8_5_4",
+        "object": "white",
+        "stereotype": "people who are invaders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_9_5_5",
+        "object": "white",
+        "stereotype": "people who is a liberal",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_10_5_6",
+        "object": "white",
+        "stereotype": "people who is an invader",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_11_4_1",
+        "object": "latino",
+        "stereotype": "people who are taking over everything",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_12_5_7",
+        "object": "white",
+        "stereotype": "people who are racist Arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_13_6_4",
+        "object": "black",
+        "stereotype": "angry and violent people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_14_6_5",
+        "object": "black",
+        "stereotype": "people who are treated like dogs in Israel",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_15_6_6",
+        "object": "black",
+        "stereotype": "people who have a different reproductive strategy and are more successful than whites reproductively speaking",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_16_6_7",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_17_5_8",
+        "object": "white",
+        "stereotype": "people who are targeted by immigrants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_18_6_8",
+        "object": "black",
+        "stereotype": "people who work in EBT marts",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_19_6_9",
+        "object": "black",
+        "stereotype": "people who should be disarmed",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_20_5_9",
+        "object": "white",
+        "stereotype": "people who live in predominantly white areas",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_21_1_2",
+        "object": "african",
+        "stereotype": "people who are threatening",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_22_1_3",
+        "object": "african",
+        "stereotype": "people who are expected to bring aggressive HIV strain to the USA and Europe",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_23_5_10",
+        "object": "white",
+        "stereotype": "white Christians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_24_6_10",
+        "object": "black",
+        "stereotype": "people involved in crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_25_6_11",
+        "object": "black",
+        "stereotype": "people who is a thug",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_26_6_12",
+        "object": "black",
+        "stereotype": "people who kill each other",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_27_6_13",
+        "object": "black",
+        "stereotype": "executive vice presidents",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_28_6_14",
+        "object": "black",
+        "stereotype": "people who should have the civil right to own firearms",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_29_6_15",
+        "object": "black",
+        "stereotype": "people who commit sadistic murders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_30_6_16",
+        "object": "black",
+        "stereotype": "people with funny names who murder each other in Birmingham, New Orleans, and Detroit",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_31_6_17",
+        "object": "black",
+        "stereotype": "people in the black community who rely on state welfare and affirmative action, which is believed to be the result of white guilt",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_32_6_18",
+        "object": "black",
+        "stereotype": "people who commit more crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_33_5_11",
+        "object": "white",
+        "stereotype": "people of the white race",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_34_5_12",
+        "object": "white",
+        "stereotype": "people who will foot the bill",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_35_5_13",
+        "object": "white",
+        "stereotype": "white ruling elite",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_36_6_19",
+        "object": "black",
+        "stereotype": "black on black violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_37_5_14",
+        "object": "white",
+        "stereotype": "people who live in the most dangerous cities in America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_38_6_20",
+        "object": "black",
+        "stereotype": "people involved in crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_39_5_15",
+        "object": "white",
+        "stereotype": "people in Africa",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_40_5_16",
+        "object": "white",
+        "stereotype": "people who run gq now tells black men to hump their wives",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_41_4_2",
+        "object": "latino",
+        "stereotype": "people who are bad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_42_6_21",
+        "object": "black",
+        "stereotype": "people who are bad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_43_5_17",
+        "object": "white",
+        "stereotype": "white supremacists who are fine people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_44_6_22",
+        "object": "black",
+        "stereotype": "people who are racist and commit acts of violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_45_5_18",
+        "object": "white",
+        "stereotype": "people who are minority children",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_46_1_4",
+        "object": "african",
+        "stereotype": "people who kill elderly white man and scream about racism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_47_5_19",
+        "object": "white",
+        "stereotype": "people who are not white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_48_6_23",
+        "object": "black",
+        "stereotype": "people who are emotionally exploitable",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_49_5_20",
+        "object": "white",
+        "stereotype": "people in 2017",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_50_6_24",
+        "object": "black",
+        "stereotype": "people who are part of violent mobs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_51_6_25",
+        "object": "black",
+        "stereotype": "people who live in damaged neighborhoods",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_52_6_26",
+        "object": "black",
+        "stereotype": "people who are lying",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_53_5_21",
+        "object": "white",
+        "stereotype": "people who are refugees",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_54_6_27",
+        "object": "black",
+        "stereotype": "people who are prone to criminal behavior",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_55_5_22",
+        "object": "white",
+        "stereotype": "people who are bronies and associated with white nationalism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_56_5_23",
+        "object": "white",
+        "stereotype": "people who think it is not okay to be white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_57_5_24",
+        "object": "white",
+        "stereotype": "people who have white privilege",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_58_5_25",
+        "object": "white",
+        "stereotype": "people who won't stand up for themselves",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_59_6_28",
+        "object": "black",
+        "stereotype": "people who think negatively about white men",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_60_6_29",
+        "object": "black",
+        "stereotype": "people who kill white girl for bicycle",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_61_6_30",
+        "object": "black",
+        "stereotype": "people who kill white girl for bicycle",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_62_5_26",
+        "object": "white",
+        "stereotype": "people who hate white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_63_6_31",
+        "object": "black",
+        "stereotype": "people who is an assassin",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_64_6_32",
+        "object": "black",
+        "stereotype": "people who attack, kill, rape white SA farmers and create food shortages because they can't do the farming",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_65_6_33",
+        "object": "black",
+        "stereotype": "racist people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_66_5_27",
+        "object": "white",
+        "stereotype": "people who is a liberal female",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_67_6_34",
+        "object": "black",
+        "stereotype": "elderly people who are black",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_68_5_28",
+        "object": "white",
+        "stereotype": "elderly people who are white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_69_3_1",
+        "object": "asian",
+        "stereotype": "elderly people who are asian",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_70_5_29",
+        "object": "white",
+        "stereotype": "people who make up false sexual smears about anyone trying to help white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_71_5_30",
+        "object": "white",
+        "stereotype": "people who believe in pro-white ideology",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_72_5_31",
+        "object": "white",
+        "stereotype": "people who are attacking learning institutions",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_73_5_32",
+        "object": "white",
+        "stereotype": "people who are victims of genocide",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_74_6_35",
+        "object": "black",
+        "stereotype": "people who are victims of rape",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_75_5_33",
+        "object": "white",
+        "stereotype": "people who are lawyers for la raza and believe it is their mission to humiliate and destroy white christian america",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_76_5_34",
+        "object": "white",
+        "stereotype": "people who are victims of a hate crime mob attack",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_77_5_35",
+        "object": "white",
+        "stereotype": "people who have privilege",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_78_5_36",
+        "object": "white",
+        "stereotype": "people who are wanted criminals in Copenhagen",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_79_6_36",
+        "object": "black",
+        "stereotype": "people who openly fantasize about slaughtering white girls during race war",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_80_6_37",
+        "object": "black",
+        "stereotype": "people who is a serial armed robber disguised as a white nationalist skinhead",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_81_6_38",
+        "object": "black",
+        "stereotype": "people who are violent towards white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_82_5_37",
+        "object": "white",
+        "stereotype": "people who are statistically more likely to be victimized by a black",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_83_5_38",
+        "object": "white",
+        "stereotype": "people who are invaders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_84_6_39",
+        "object": "black",
+        "stereotype": "people who are being exploited",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_85_6_40",
+        "object": "black",
+        "stereotype": "people who are black supremacists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_86_6_41",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_87_5_39",
+        "object": "white",
+        "stereotype": "white supremacists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_88_5_40",
+        "object": "white",
+        "stereotype": "people who commit mass murder of indigenous people of America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_89_5_41",
+        "object": "white",
+        "stereotype": "people who work in pregnancy clinics",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_90_6_42",
+        "object": "black",
+        "stereotype": "people who live on food stamps",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_91_1_5",
+        "object": "african",
+        "stereotype": "people who need to be taught by people from South China how to mine in their own countries",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_92_6_43",
+        "object": "black",
+        "stereotype": "people who kill other blacks on a daily basis",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_93_5_42",
+        "object": "white",
+        "stereotype": "people who commit crime in Republican controlled cities resembling Chicago, Baltimore, and Detroit",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_94_5_43",
+        "object": "white",
+        "stereotype": "people who don't burn down cities when they demonstrate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_95_5_44",
+        "object": "white",
+        "stereotype": "people who are safe from black violence when segregation is the rule of law",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_96_5_45",
+        "object": "white",
+        "stereotype": "people who write anti-white books",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_97_5_46",
+        "object": "white",
+        "stereotype": "people who feel guilty and blame Jews for white privilege, corrupt media, Trump, Moors, Ottomans, and slavery",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_98_5_47",
+        "object": "white",
+        "stereotype": "people who is a Danish girl",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_99_5_48",
+        "object": "white",
+        "stereotype": "people who are Danish girls",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_100_5_49",
+        "object": "white",
+        "stereotype": "people who support white genocide",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_101_6_44",
+        "object": "black",
+        "stereotype": "people who are murderers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_102_5_50",
+        "object": "white",
+        "stereotype": "people who commit suicide after being tormented by racist Arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_103_5_51",
+        "object": "white",
+        "stereotype": "people who are anti-white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_104_5_52",
+        "object": "white",
+        "stereotype": "people who are illegal immigrants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_105_5_53",
+        "object": "white",
+        "stereotype": "people who are immigrants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_106_6_45",
+        "object": "black",
+        "stereotype": "people who are beautiful and grand",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_107_6_46",
+        "object": "black",
+        "stereotype": "people who are more likely to assault a white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_108_6_47",
+        "object": "black",
+        "stereotype": "people who have the best party time in white countries, welfare fattened, selling their culture, impregnating white women",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_109_5_54",
+        "object": "white",
+        "stereotype": "people who are Muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_110_6_48",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_111_6_49",
+        "object": "black",
+        "stereotype": "people who hate certain jobs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_112_6_50",
+        "object": "black",
+        "stereotype": "people who are leaders of the Black Panther movement",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_113_5_55",
+        "object": "white",
+        "stereotype": "white men",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_114_6_51",
+        "object": "black",
+        "stereotype": "people who pay nothing or almost nothing in federal income taxes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_115_5_56",
+        "object": "white",
+        "stereotype": "people who are ruled by Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_116_5_57",
+        "object": "white",
+        "stereotype": "people who are Dutch",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_117_6_52",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_118_6_53",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_119_5_58",
+        "object": "white",
+        "stereotype": "white males who are serial killers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_120_5_59",
+        "object": "white",
+        "stereotype": "people who created the United States of America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_121_6_54",
+        "object": "black",
+        "stereotype": "people who commit crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_122_5_60",
+        "object": "white",
+        "stereotype": "people who belong to the super race",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_123_5_61",
+        "object": "white",
+        "stereotype": "people who have a history",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_124_5_62",
+        "object": "white",
+        "stereotype": "people who advocate for open borders and flooding white lands with lazy bludgers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_125_5_63",
+        "object": "white",
+        "stereotype": "people who are anti-white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_126_6_55",
+        "object": "black",
+        "stereotype": "people who live in a demokkkrat war zone",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_127_5_64",
+        "object": "white",
+        "stereotype": "people who are racist arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_128_5_65",
+        "object": "white",
+        "stereotype": "people who rape thousands of white girls every year",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_129_5_66",
+        "object": "white",
+        "stereotype": "people who are illegal immigrants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_130_5_67",
+        "object": "white",
+        "stereotype": "people who are illegal immigrants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_131_5_68",
+        "object": "white",
+        "stereotype": "people who are illegal immigrants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_132_6_56",
+        "object": "black",
+        "stereotype": "people advocating genocide of white devils",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_133_5_69",
+        "object": "white",
+        "stereotype": "people advocating white genocide",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_134_6_57",
+        "object": "black",
+        "stereotype": "people who fracture the skull of a white guy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_135_5_70",
+        "object": "white",
+        "stereotype": "people who won't be rioting",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_136_5_71",
+        "object": "white",
+        "stereotype": "white Americans who grow conservative and focus on building family & career",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_137_6_58",
+        "object": "black",
+        "stereotype": "people who are accused of hate crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_138_6_59",
+        "object": "black",
+        "stereotype": "people who commit interracial crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_139_6_60",
+        "object": "black",
+        "stereotype": "people who pimp their white girlfriends",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_140_5_72",
+        "object": "white",
+        "stereotype": "people who are invaders working",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_141_5_73",
+        "object": "white",
+        "stereotype": "people who are attacked or murdered by non-white Marxists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_142_5_74",
+        "object": "white",
+        "stereotype": "white liberals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_143_6_61",
+        "object": "black",
+        "stereotype": "people who is a serial killer",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_144_6_62",
+        "object": "black",
+        "stereotype": "racist people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_145_6_63",
+        "object": "black",
+        "stereotype": "people who hate white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_146_5_75",
+        "object": "white",
+        "stereotype": "people who are racist against Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_147_4_3",
+        "object": "latino",
+        "stereotype": "people who are drug dealers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_148_3_2",
+        "object": "asian",
+        "stereotype": "people who are racist towards interracial relationships",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_149_5_76",
+        "object": "white",
+        "stereotype": "people who prefer white neighborhoods",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_150_6_64",
+        "object": "black",
+        "stereotype": "people who support Black Lives Matter",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_151_5_77",
+        "object": "white",
+        "stereotype": "people who are being brutally massacred by blacks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_152_5_78",
+        "object": "white",
+        "stereotype": "people who are the first race",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_153_6_65",
+        "object": "black",
+        "stereotype": "people who are the third race",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_154_6_66",
+        "object": "black",
+        "stereotype": "black mafia members",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_155_5_79",
+        "object": "white",
+        "stereotype": "people who are white protestants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_156_5_80",
+        "object": "white",
+        "stereotype": "white supremacists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_157_7_1",
+        "object": "middle eastern",
+        "stereotype": "people who are our ally",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_158_6_67",
+        "object": "black",
+        "stereotype": "people who kill a white man for the fun of it",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_159_5_81",
+        "object": "white",
+        "stereotype": "people who are nationalists and against globalization & foreign interference",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_160_6_68",
+        "object": "black",
+        "stereotype": "people who are nationalists and against globalization & foreign interference",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_161_3_3",
+        "object": "asian",
+        "stereotype": "people who are nationalists and against globalization & foreign interference",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_162_4_4",
+        "object": "latino",
+        "stereotype": "people who are nationalists and against globalization & foreign interference",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_163_6_69",
+        "object": "black",
+        "stereotype": "people who kill white cops",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_164_5_82",
+        "object": "white",
+        "stereotype": "people who are escaping blacks (crime)",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_165_6_70",
+        "object": "black",
+        "stereotype": "people who commit a high percentage of murders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_166_5_83",
+        "object": "white",
+        "stereotype": "people who are liberals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_167_6_71",
+        "object": "black",
+        "stereotype": "criminals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_168_5_84",
+        "object": "white",
+        "stereotype": "white liberals who serve humus cooked for them by white feminists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_169_5_85",
+        "object": "white",
+        "stereotype": "people who shuck and jive for the white man",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_170_5_86",
+        "object": "white",
+        "stereotype": "people who commit crime and violence against black people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_171_5_87",
+        "object": "white",
+        "stereotype": "people who are victims of racist attacks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_172_5_88",
+        "object": "white",
+        "stereotype": "people who have privilege",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_173_6_72",
+        "object": "black",
+        "stereotype": "people who put people of other races in a real yoke",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_174_5_89",
+        "object": "white",
+        "stereotype": "people who feel nothing for the lives of whites",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_175_5_90",
+        "object": "white",
+        "stereotype": "people who engage in hate crime mob violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_176_5_91",
+        "object": "white",
+        "stereotype": "people who are victims of home invasion",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_177_5_92",
+        "object": "white",
+        "stereotype": "people who commit suicide after being tormented by racist Arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_178_5_93",
+        "object": "white",
+        "stereotype": "people who commit suicide after being tormented by racist Arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_179_5_94",
+        "object": "white",
+        "stereotype": "people who want to kill all the white people on this bus",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_180_5_95",
+        "object": "white",
+        "stereotype": "people who are victims of racial murder and rape",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_181_5_96",
+        "object": "white",
+        "stereotype": "dead liberal female",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_182_5_97",
+        "object": "white",
+        "stereotype": "people who is lynched and robbed by a racist black gang",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_183_5_98",
+        "object": "white",
+        "stereotype": "people who live in America's poorest town",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_184_5_99",
+        "object": "white",
+        "stereotype": "people who support Trump's campaign",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_185_6_73",
+        "object": "black",
+        "stereotype": "people who are arrogant",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_186_1_6",
+        "object": "african",
+        "stereotype": "people who fail",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_187_5_100",
+        "object": "white",
+        "stereotype": "people who are white cops",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_188_1_7",
+        "object": "african",
+        "stereotype": "people who are immigrants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_189_5_101",
+        "object": "white",
+        "stereotype": "people who are indigenous to the USA",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_190_5_102",
+        "object": "white",
+        "stereotype": "people who are Dutch",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_191_6_74",
+        "object": "black",
+        "stereotype": "people who go on shooting sprees and hate whites",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_192_6_75",
+        "object": "black",
+        "stereotype": "crazy people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_193_1_8",
+        "object": "african",
+        "stereotype": "people who kill elderly white man and scream about racism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_194_6_76",
+        "object": "black",
+        "stereotype": "people who is a slave owner",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_195_5_103",
+        "object": "white",
+        "stereotype": "people who is a slave owner",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_196_5_104",
+        "object": "white",
+        "stereotype": "people who commit white on white crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_197_3_4",
+        "object": "asian",
+        "stereotype": "drunk people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_198_5_105",
+        "object": "white",
+        "stereotype": "white British people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_199_2_1",
+        "object": "european",
+        "stereotype": "people who have ancestors in America before others",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_200_5_106",
+        "object": "white",
+        "stereotype": "people who have a dream state about Zionism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_201_5_107",
+        "object": "white",
+        "stereotype": "people who are referred to as 'shabbos goys'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_202_6_77",
+        "object": "black",
+        "stereotype": "people who promote and fund racial hatred",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_203_5_108",
+        "object": "white",
+        "stereotype": "people who are wanted criminals in Copenhagen",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_204_5_109",
+        "object": "white",
+        "stereotype": "people who commit suicide after being tormented by racist Arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_205_5_110",
+        "object": "white",
+        "stereotype": "people who own homes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_206_6_78",
+        "object": "black",
+        "stereotype": "people who is a spree shooter",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_207_5_111",
+        "object": "white",
+        "stereotype": "people who display the confederate flag on their car",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_208_6_79",
+        "object": "black",
+        "stereotype": "people who commit violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_209_5_112",
+        "object": "white",
+        "stereotype": "people who are disappointed with presidents",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_210_6_80",
+        "object": "black",
+        "stereotype": "people who commit interracial crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_211_5_113",
+        "object": "white",
+        "stereotype": "people who rape women in black neighborhoods",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_212_5_114",
+        "object": "white",
+        "stereotype": "people involved in white slave trade in Israel",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_213_5_115",
+        "object": "white",
+        "stereotype": "people who is heroic",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_214_6_81",
+        "object": "black",
+        "stereotype": "people who are extremely hostile and negative in America these days",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_215_5_116",
+        "object": "white",
+        "stereotype": "people who are anti-white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_216_6_82",
+        "object": "black",
+        "stereotype": "people who are leaders of the Black Panther movement",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_217_1_9",
+        "object": "african",
+        "stereotype": "people who are migrants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_218_6_83",
+        "object": "black",
+        "stereotype": "people who hate white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_219_6_84",
+        "object": "black",
+        "stereotype": "people who sell each other to whites",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_220_5_117",
+        "object": "white",
+        "stereotype": "wealthy people who are taxed and have their income redistributed",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_221_6_85",
+        "object": "black",
+        "stereotype": "people in Mississippi who rely on SNAP EBT",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_222_6_86",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_223_5_118",
+        "object": "white",
+        "stereotype": "people who are illegals from south of the border",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_224_6_87",
+        "object": "black",
+        "stereotype": "people who kill each other and commit violence against others",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_225_6_88",
+        "object": "black",
+        "stereotype": "people who are aware of police surveillance",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_226_6_89",
+        "object": "black",
+        "stereotype": "people who don't like stuff",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_227_5_119",
+        "object": "white",
+        "stereotype": "people who don't like to do certain jobs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_228_6_90",
+        "object": "black",
+        "stereotype": "people who are less responsible with money",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_229_6_91",
+        "object": "black",
+        "stereotype": "people who commit interracial crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_230_6_92",
+        "object": "black",
+        "stereotype": "people who are recipients of government assistance",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_231_5_120",
+        "object": "white",
+        "stereotype": "people who are proud alt-righters",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_232_5_121",
+        "object": "white",
+        "stereotype": "people with funny accents that aren't from around here",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_233_6_93",
+        "object": "black",
+        "stereotype": "people who should be disarmed",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_234_1_10",
+        "object": "african",
+        "stereotype": "people who are white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_235_5_122",
+        "object": "white",
+        "stereotype": "people who should be exterminated",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_236_5_123",
+        "object": "white",
+        "stereotype": "people advocating for basic human rights",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_237_1_11",
+        "object": "african",
+        "stereotype": "people who immigrate to Italy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_238_5_124",
+        "object": "white",
+        "stereotype": "people who are leftists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_239_6_94",
+        "object": "black",
+        "stereotype": "people who attack and kill white people daily",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_240_5_125",
+        "object": "white",
+        "stereotype": "people who are leftists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_241_5_126",
+        "object": "white",
+        "stereotype": "people who are jihadists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_242_6_95",
+        "object": "black",
+        "stereotype": "people who is a cotton picker",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_243_6_96",
+        "object": "black",
+        "stereotype": "people who rob and shoot white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_244_5_127",
+        "object": "white",
+        "stereotype": "people who are part of the rising 3rd world invasion in Britain",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_245_5_128",
+        "object": "white",
+        "stereotype": "people who can't be racist towards jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_246_5_129",
+        "object": "white",
+        "stereotype": "people who tried to live in peace",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_247_5_130",
+        "object": "white",
+        "stereotype": "people who are blonde",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_248_5_131",
+        "object": "white",
+        "stereotype": "people who live in small towns in Arkansas",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_249_6_97",
+        "object": "black",
+        "stereotype": "people who live in small towns in Arkansas",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_250_6_98",
+        "object": "black",
+        "stereotype": "people who steal iPhones",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_251_6_99",
+        "object": "black",
+        "stereotype": "racist blacks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_252_5_132",
+        "object": "white",
+        "stereotype": "people who are a white couple brutally beaten by racist negroes for no reason",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_253_6_100",
+        "object": "black",
+        "stereotype": "potential criminals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_254_4_5",
+        "object": "latino",
+        "stereotype": "people who are embarrassed of their heritage",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_255_5_133",
+        "object": "white",
+        "stereotype": "people who were murdered by racist blacks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_256_6_101",
+        "object": "black",
+        "stereotype": "people who need to pull up their pants, take a shower, put down the crack pipe, get a job, and stop assuming good white folks are racist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_257_5_134",
+        "object": "white",
+        "stereotype": "disingenuous liberals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_258_6_102",
+        "object": "black",
+        "stereotype": "people who work in fields in central Alabama",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_259_6_103",
+        "object": "black",
+        "stereotype": "people who are criminals and thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_260_5_135",
+        "object": "white",
+        "stereotype": "people who are old",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_261_6_104",
+        "object": "black",
+        "stereotype": "people who kill whites",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_262_5_136",
+        "object": "white",
+        "stereotype": "people who engage in domestic violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_263_6_105",
+        "object": "black",
+        "stereotype": "people who are murderers, rapists, thugs, and evil",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_264_5_137",
+        "object": "white",
+        "stereotype": "stupid people who receive welfare checks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_265_5_138",
+        "object": "white",
+        "stereotype": "fat white chicks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_266_6_106",
+        "object": "black",
+        "stereotype": "black men",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_267_5_139",
+        "object": "white",
+        "stereotype": "rich politicians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_268_7_2",
+        "object": "middle eastern",
+        "stereotype": "people who are criminals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_269_6_107",
+        "object": "black",
+        "stereotype": "people who are victims of police shootings",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_270_5_140",
+        "object": "white",
+        "stereotype": "people who are victims of shootings",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_271_5_141",
+        "object": "white",
+        "stereotype": "people who are enemies of the Germanic peoples",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_272_6_108",
+        "object": "black",
+        "stereotype": "people who lower property value, increase crime, ruin schools, kill businesses, blight, etc.",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_273_6_109",
+        "object": "black",
+        "stereotype": "people who are black racist muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_274_5_142",
+        "object": "white",
+        "stereotype": "people who cannot compete with illegal aliens",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_275_5_143",
+        "object": "white",
+        "stereotype": "people who commit hate crime mob violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_276_6_110",
+        "object": "black",
+        "stereotype": "people who are in prison",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_277_6_111",
+        "object": "black",
+        "stereotype": "people who believe in the Black Lives Matter movement",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_278_6_112",
+        "object": "black",
+        "stereotype": "people who commit violent crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_279_6_113",
+        "object": "black",
+        "stereotype": "people who commit sadistic murders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_280_5_144",
+        "object": "white",
+        "stereotype": "people who is lynched and robbed by a racist black gang",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_281_5_145",
+        "object": "white",
+        "stereotype": "people who commit hate crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_282_6_114",
+        "object": "black",
+        "stereotype": "people who harm white girls",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_283_6_115",
+        "object": "black",
+        "stereotype": "people who commit sadistic murders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_284_6_116",
+        "object": "black",
+        "stereotype": "people who advocate violence against white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_285_5_146",
+        "object": "white",
+        "stereotype": "people who are Somali and commit murder",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_286_5_147",
+        "object": "white",
+        "stereotype": "people who is a wife",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_287_5_148",
+        "object": "white",
+        "stereotype": "people who believe in white genocide",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_288_1_12",
+        "object": "african",
+        "stereotype": "people from a failed state",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_289_5_149",
+        "object": "white",
+        "stereotype": "people who support law & order",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_290_3_5",
+        "object": "asian",
+        "stereotype": "people who need police protection from blacks and hispanics",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_291_2_2",
+        "object": "european",
+        "stereotype": "people who are non employed, non educated immigrants with high crime rates and micro-communities",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_292_5_150",
+        "object": "white",
+        "stereotype": "people who are concerned about the declining percentage of whites in the US population",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_293_5_151",
+        "object": "white",
+        "stereotype": "white rhodesians and boers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_294_5_152",
+        "object": "white",
+        "stereotype": "people who mob attack native Swedes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_295_6_117",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_296_6_118",
+        "object": "black",
+        "stereotype": "racist people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_297_6_119",
+        "object": "black",
+        "stereotype": "people who are drunken",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_298_6_120",
+        "object": "black",
+        "stereotype": "people who commit crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_299_6_121",
+        "object": "black",
+        "stereotype": "black males waging sexual war of conquest and colonizing white wombs to make 'brown babies'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_300_5_153",
+        "object": "white",
+        "stereotype": "white English people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_301_4_6",
+        "object": "latino",
+        "stereotype": "people who will become the majority racial group in California next year",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_302_5_154",
+        "object": "white",
+        "stereotype": "people who live in non-white counties",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_303_5_155",
+        "object": "white",
+        "stereotype": "people who are refugees",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_304_5_156",
+        "object": "white",
+        "stereotype": "people who work in the White House",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_305_5_157",
+        "object": "white",
+        "stereotype": "people who are too white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_306_5_158",
+        "object": "white",
+        "stereotype": "people who call for extermination of white people and believe diversity is a code-word for white genocide",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_307_5_159",
+        "object": "white",
+        "stereotype": "people who are Dutch",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_308_5_160",
+        "object": "white",
+        "stereotype": "people who are victims of racially motivated hate crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_309_1_13",
+        "object": "african",
+        "stereotype": "people who are Muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_310_5_161",
+        "object": "white",
+        "stereotype": "people who are racially motivated hate crime victims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_311_5_162",
+        "object": "white",
+        "stereotype": "people who are wanted criminals in Copenhagen",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_312_5_163",
+        "object": "white",
+        "stereotype": "people who support Israel's policies",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_313_6_122",
+        "object": "black",
+        "stereotype": "people who are violent towards pregnant white women",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_314_6_123",
+        "object": "black",
+        "stereotype": "rich people who stir up attacks against white Americans",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_315_5_164",
+        "object": "white",
+        "stereotype": "people who display the confederate flag on their car",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_316_5_165",
+        "object": "white",
+        "stereotype": "people who are Finnish",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_317_6_124",
+        "object": "black",
+        "stereotype": "people who assault others in McDonald's",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_318_6_125",
+        "object": "black",
+        "stereotype": "people who rape and murder",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_319_6_126",
+        "object": "black",
+        "stereotype": "people in Chicago who kill one another",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_320_5_166",
+        "object": "white",
+        "stereotype": "people who advocate for white identity",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_321_5_167",
+        "object": "white",
+        "stereotype": "people from Houston after Harvey with PR & Florida",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_322_6_127",
+        "object": "black",
+        "stereotype": "people who riot and destroy commerce and civilization",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_323_5_168",
+        "object": "white",
+        "stereotype": "people who is innocent and shot to death for fun by black racist killers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_324_5_169",
+        "object": "white",
+        "stereotype": "people who is in the white house",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_325_5_170",
+        "object": "white",
+        "stereotype": "people who are goyim",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_326_1_14",
+        "object": "african",
+        "stereotype": "people who are illegally exported by the Israeli government",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_327_5_171",
+        "object": "white",
+        "stereotype": "people who have a job here",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_328_6_128",
+        "object": "black",
+        "stereotype": "racist people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_329_5_172",
+        "object": "white",
+        "stereotype": "people who are evil politicians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_330_6_129",
+        "object": "black",
+        "stereotype": "people who is a member of the New Black Panther Party",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_331_6_130",
+        "object": "black",
+        "stereotype": "people who engage in ritual muti killings",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_332_5_173",
+        "object": "white",
+        "stereotype": "people who are attacked by illegal aliens",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_333_5_174",
+        "object": "white",
+        "stereotype": "people who are members of the Mormon Tabernacle Choir",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_334_7_3",
+        "object": "middle eastern",
+        "stereotype": "people who rape white women in their slave trade",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_335_5_175",
+        "object": "white",
+        "stereotype": "white nationalists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_336_6_131",
+        "object": "black",
+        "stereotype": "people who attempt to kidnap white toddlers for ritual \"muti\" murders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_337_5_176",
+        "object": "white",
+        "stereotype": "people who commit suicide after being tormented by racist Arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_338_5_177",
+        "object": "white",
+        "stereotype": "people who are victims of sexual assault by non-white invaders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_339_5_178",
+        "object": "white",
+        "stereotype": "people who live in more equal societies with less crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_340_3_6",
+        "object": "asian",
+        "stereotype": "people who live in more equal societies with less crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_341_5_179",
+        "object": "white",
+        "stereotype": "people in white countries",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_342_5_180",
+        "object": "white",
+        "stereotype": "people who are not present",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_343_5_181",
+        "object": "white",
+        "stereotype": "people who are members of the UC Berkeley White Student Union",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_344_6_132",
+        "object": "black",
+        "stereotype": "people who is a killer",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_345_5_182",
+        "object": "white",
+        "stereotype": "people in white countries",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_346_5_183",
+        "object": "white",
+        "stereotype": "mindless haters",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_347_5_184",
+        "object": "white",
+        "stereotype": "white one",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_348_5_185",
+        "object": "white",
+        "stereotype": "people who should be hunted & killed",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_349_6_133",
+        "object": "black",
+        "stereotype": "people who are violent and racist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_350_6_134",
+        "object": "black",
+        "stereotype": "black people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_351_5_186",
+        "object": "white",
+        "stereotype": "people who are wanted criminals in Copenhagen",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_352_6_135",
+        "object": "black",
+        "stereotype": "people who commit crimes against white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_353_5_187",
+        "object": "white",
+        "stereotype": "people who are tourists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_354_5_188",
+        "object": "white",
+        "stereotype": "people who should be killed by jihadis",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_355_5_189",
+        "object": "white",
+        "stereotype": "people who founded, created, and ran America until boomer hippies got white guilt",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_356_5_190",
+        "object": "white",
+        "stereotype": "people who detest white goyim",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_357_6_136",
+        "object": "black",
+        "stereotype": "people who openly fantasize about slaughtering white girls during a race war",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_358_6_137",
+        "object": "black",
+        "stereotype": "people who advocate violence against whites and their children",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_359_6_138",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_360_6_139",
+        "object": "black",
+        "stereotype": "people who begrudge white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_361_2_3",
+        "object": "european",
+        "stereotype": "people who are Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_362_5_191",
+        "object": "white",
+        "stereotype": "people who commit crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_363_6_140",
+        "object": "black",
+        "stereotype": "people who are aggressive survivalists in Africa",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_364_6_141",
+        "object": "black",
+        "stereotype": "people who are black power militants",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_365_5_192",
+        "object": "white",
+        "stereotype": "people who support white supremacy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_366_6_142",
+        "object": "black",
+        "stereotype": "middle class people who vacation in trailer parks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_367_6_143",
+        "object": "black",
+        "stereotype": "people who is trying to tell someone else's IQ",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_368_6_144",
+        "object": "black",
+        "stereotype": "people who need welfare from whites",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_369_5_193",
+        "object": "white",
+        "stereotype": "white Americans",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_370_5_194",
+        "object": "white",
+        "stereotype": "white victory",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_371_5_195",
+        "object": "white",
+        "stereotype": "people who are shockingly european",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_372_6_145",
+        "object": "black",
+        "stereotype": "people who commit sadistic murders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_373_5_196",
+        "object": "white",
+        "stereotype": "people who attend the White House Correspondents' Dinner",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_374_5_197",
+        "object": "white",
+        "stereotype": "people who want to rename the White House as the White Mosque",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_375_5_198",
+        "object": "white",
+        "stereotype": "people who are wanted criminals in Copenhagen",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_376_6_146",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_377_5_199",
+        "object": "white",
+        "stereotype": "people who are white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_378_6_147",
+        "object": "black",
+        "stereotype": "people who acted exactly like we expected them to",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_379_5_200",
+        "object": "white",
+        "stereotype": "people who are victims of racial murder and rape",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_380_5_201",
+        "object": "white",
+        "stereotype": "people who are elderly",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_381_6_148",
+        "object": "black",
+        "stereotype": "people who are thugs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_382_6_149",
+        "object": "black",
+        "stereotype": "people who are protesters",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_383_5_202",
+        "object": "white",
+        "stereotype": "people who are Trump supporters",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_384_5_203",
+        "object": "white",
+        "stereotype": "people who are poor",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_385_1_15",
+        "object": "african",
+        "stereotype": "people who are Muslim immigrants from Africa",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_386_5_204",
+        "object": "white",
+        "stereotype": "people who are not safe in inner-city America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_387_6_150",
+        "object": "black",
+        "stereotype": "people who commit multiple murders by fire",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_388_5_205",
+        "object": "white",
+        "stereotype": "people who will turn on their white leftist enablers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_389_5_206",
+        "object": "white",
+        "stereotype": "people who are students at Western Cape University",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_390_6_151",
+        "object": "black",
+        "stereotype": "people who are victims of rape, beatings, and murders by white men",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_391_5_207",
+        "object": "white",
+        "stereotype": "people who are from Sweden",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_392_6_152",
+        "object": "black",
+        "stereotype": "people who should be killed",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_393_2_4",
+        "object": "european",
+        "stereotype": "people from Europe",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_394_6_153",
+        "object": "black",
+        "stereotype": "people who own firearms and contribute to gun violence in inner cities",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_395_5_208",
+        "object": "white",
+        "stereotype": "people who gaslighted and had Asian girlfriends before waking up from brainwashing",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_396_5_209",
+        "object": "white",
+        "stereotype": "people who protest against increasing number of non-white invaders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_397_6_154",
+        "object": "black",
+        "stereotype": "people who commit crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_398_5_210",
+        "object": "white",
+        "stereotype": "people who were driven off and their return was begged for by poor Africans",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_399_6_155",
+        "object": "black",
+        "stereotype": "people who live in a dump",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_400_6_156",
+        "object": "black",
+        "stereotype": "people who get mugged in Atlanta",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_401_6_157",
+        "object": "black",
+        "stereotype": "people associated with rising crime",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_402_1_16",
+        "object": "african",
+        "stereotype": "people who are invading Italy and seizing buildings in Rome",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_403_6_158",
+        "object": "black",
+        "stereotype": "people who engage in youth violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_404_5_211",
+        "object": "white",
+        "stereotype": "people who are part of the power elite",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_405_5_212",
+        "object": "white",
+        "stereotype": "people who are married to white non-jewish men",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_406_5_213",
+        "object": "white",
+        "stereotype": "people who are targeted for violence by a Muslim leader",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_407_5_214",
+        "object": "white",
+        "stereotype": "people who are racist arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_408_5_215",
+        "object": "white",
+        "stereotype": "people who are victims of racial murder and rape",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_409_5_216",
+        "object": "white",
+        "stereotype": "people who just woke up",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_410_5_217",
+        "object": "white",
+        "stereotype": "people who are victims of racial murder and rape",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_411_5_218",
+        "object": "white",
+        "stereotype": "people who mob attack native Swedes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_412_6_159",
+        "object": "black",
+        "stereotype": "people who murder each other over sneakers and street cred",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_413_6_160",
+        "object": "black",
+        "stereotype": "people who take white tax dollars and complain that it's still not enough",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_414_6_161",
+        "object": "black",
+        "stereotype": "people who are violent",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_415_5_219",
+        "object": "white",
+        "stereotype": "people who are going to be shot on November 4th",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_416_6_162",
+        "object": "black",
+        "stereotype": "people who engage in mob attacks on white individuals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_417_5_220",
+        "object": "white",
+        "stereotype": "people who are submissive to Jewish globalism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_418_5_221",
+        "object": "white",
+        "stereotype": "people who look like the cast of Seinfeld",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_419_5_222",
+        "object": "white",
+        "stereotype": "people who are always right",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_420_6_163",
+        "object": "black",
+        "stereotype": "people who owned more 'house servants' than their white neighbors",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_421_4_7",
+        "object": "latino",
+        "stereotype": "people who is a recycled criminal illegal alien",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_422_6_164",
+        "object": "black",
+        "stereotype": "people who are skilled with weapons",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_423_6_165",
+        "object": "black",
+        "stereotype": "people who are more exposed to blacks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_424_6_166",
+        "object": "black",
+        "stereotype": "people who she is dating",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_425_6_167",
+        "object": "black",
+        "stereotype": "people who chant 'what do we want? dead cops! when do we want them? now!'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_426_5_223",
+        "object": "white",
+        "stereotype": "people who believe in replacing others with brown people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_427_6_168",
+        "object": "black",
+        "stereotype": "people who were slaves",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_428_5_224",
+        "object": "white",
+        "stereotype": "people who attend government schools",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_429_6_169",
+        "object": "black",
+        "stereotype": "people who is a criminal",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_430_5_225",
+        "object": "white",
+        "stereotype": "people who wish more white kids would get shot",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_431_5_226",
+        "object": "white",
+        "stereotype": "white people as the cause of problems",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_432_6_170",
+        "object": "black",
+        "stereotype": "people who never go back home to the kids",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_433_6_171",
+        "object": "black",
+        "stereotype": "people who are good at sports",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_434_6_172",
+        "object": "black",
+        "stereotype": "people who are single mothers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_435_6_173",
+        "object": "black",
+        "stereotype": "guilty people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_436_6_174",
+        "object": "black",
+        "stereotype": "people who can only be successful by playing jazz, singing, dancing, or playing sports",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_437_6_175",
+        "object": "black",
+        "stereotype": "people who start throwing their shit at each other after a pint or two",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_438_6_176",
+        "object": "black",
+        "stereotype": "people with red eyes after sex",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_439_6_177",
+        "object": "black",
+        "stereotype": "people who are considered attractive",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_440_6_178",
+        "object": "black",
+        "stereotype": "people who are assumed to have children",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_441_6_179",
+        "object": "black",
+        "stereotype": "people who is a rape victim",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_442_6_180",
+        "object": "black",
+        "stereotype": "people who are all related",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_443_3_7",
+        "object": "asian",
+        "stereotype": "people who all look the same",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_444_7_4",
+        "object": "middle eastern",
+        "stereotype": "decent people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_445_5_227",
+        "object": "white",
+        "stereotype": "people who are pale",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_446_6_181",
+        "object": "black",
+        "stereotype": "people who don't do well in water",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_447_6_182",
+        "object": "black",
+        "stereotype": "aggressive and strong people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_448_6_183",
+        "object": "black",
+        "stereotype": "people who identify as white on the inside",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_449_6_184",
+        "object": "black",
+        "stereotype": "people who are criminals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "2_450_7_5",
+        "object": "middle eastern",
+        "stereotype": "people who are part of 'dune coon' movements like Hezbollah and the Muslim Brotherhood",
+        "source": "IHC"
+      }
+    ]
+  },
+  "religion": {
+    "pair_counts": 536,
+    "christian": 14,
+    "muslim": 283,
+    "buddhist": 3,
+    "hindu": 6,
+    "catholic": 2,
+    "jew": 228,
+    "stereo_pairs": [
+      {
+        "pair_id": "3_1_2_1",
+        "object": "muslim",
+        "stereotype": "people who hate Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_2_6_1",
+        "object": "jew",
+        "stereotype": "people who are government infiltrators",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_3_6_2",
+        "object": "jew",
+        "stereotype": "people who manipulate white-euro people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_4_6_3",
+        "object": "jew",
+        "stereotype": "people who feel hatred towards white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_5_2_2",
+        "object": "muslim",
+        "stereotype": "people who follow a barbaric totalitarian political ideology intent on enslaving all human beings for Allah",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_6_2_3",
+        "object": "muslim",
+        "stereotype": "people who find violence against those who insult Muhammad acceptable",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_7_6_4",
+        "object": "jew",
+        "stereotype": "people who engage in decades-long sexual abuse of white women",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_8_6_5",
+        "object": "jew",
+        "stereotype": "people who wants to abolish the white race",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_9_2_4",
+        "object": "muslim",
+        "stereotype": "people who are taught sharia amputation methods and believe in Jewish conspiracy theories",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_10_2_5",
+        "object": "muslim",
+        "stereotype": "people who follow a 1400 years old religious ideology",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_11_2_6",
+        "object": "muslim",
+        "stereotype": "people who invade",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_12_2_7",
+        "object": "muslim",
+        "stereotype": "people who are heretics or infidels",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_13_2_8",
+        "object": "muslim",
+        "stereotype": "people who celebrate a muslim killing a jew as a hero",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_14_2_9",
+        "object": "muslim",
+        "stereotype": "people who are racist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_15_2_10",
+        "object": "muslim",
+        "stereotype": "people who have a hatred for infidels and believe in Islamic supremacy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_16_6_6",
+        "object": "jew",
+        "stereotype": "people who are activists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_17_6_7",
+        "object": "jew",
+        "stereotype": "people who run banking, media, academia, and government",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_18_6_8",
+        "object": "jew",
+        "stereotype": "people who embrace anti white hate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_19_2_11",
+        "object": "muslim",
+        "stereotype": "people who want to kill those who tell truth, worship Jesus Christ, and dissent",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_20_2_12",
+        "object": "muslim",
+        "stereotype": "people who always want to kill someone",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_21_2_13",
+        "object": "muslim",
+        "stereotype": "people who are commanded to kill all jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_22_2_14",
+        "object": "muslim",
+        "stereotype": "people who kill non-muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_23_6_9",
+        "object": "jew",
+        "stereotype": "people who are motivated by money and votes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_24_6_10",
+        "object": "jew",
+        "stereotype": "people who lied about white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_25_6_11",
+        "object": "jew",
+        "stereotype": "people who support zionism and jewish nationalism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_26_2_15",
+        "object": "muslim",
+        "stereotype": "people who have been hating for 1400+ years",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_27_6_12",
+        "object": "jew",
+        "stereotype": "people who support white genocide",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_28_6_13",
+        "object": "jew",
+        "stereotype": "people who are globalists or puppets",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_29_2_16",
+        "object": "muslim",
+        "stereotype": "people who are taught to kill",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_30_2_17",
+        "object": "muslim",
+        "stereotype": "people who believe in killing",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_31_6_14",
+        "object": "jew",
+        "stereotype": "people who control our society and dictate our historical and political paradigms",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_32_6_15",
+        "object": "jew",
+        "stereotype": "people who cheat and are false",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_33_6_16",
+        "object": "jew",
+        "stereotype": "people who are video peddlers and misuse NS & AH, without knowledge of the Aryan race",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_34_2_18",
+        "object": "muslim",
+        "stereotype": "people who are racist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_35_2_19",
+        "object": "muslim",
+        "stereotype": "people who are radical and not terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_36_6_17",
+        "object": "jew",
+        "stereotype": "people who largely created the tattoo business",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_37_2_20",
+        "object": "muslim",
+        "stereotype": "people who do not integrate and conquer cultures",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_38_2_21",
+        "object": "muslim",
+        "stereotype": "people who read the koran",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_39_6_18",
+        "object": "jew",
+        "stereotype": "people who meddle too much",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_40_1_1",
+        "object": "christian",
+        "stereotype": "people who gave 60 + million lives",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_41_2_22",
+        "object": "muslim",
+        "stereotype": "people who practice Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_42_6_19",
+        "object": "jew",
+        "stereotype": "people who believe in the holocaust myth",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_43_6_20",
+        "object": "jew",
+        "stereotype": "people who are agents of the Jewish diaspora",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_44_6_21",
+        "object": "jew",
+        "stereotype": "people who can triumph if white men do nothing",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_45_6_22",
+        "object": "jew",
+        "stereotype": "people who own the mass media",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_46_2_23",
+        "object": "muslim",
+        "stereotype": "people who follow Satan's Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_47_6_23",
+        "object": "jew",
+        "stereotype": "people who try to stop free speech",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_48_6_24",
+        "object": "jew",
+        "stereotype": "people who are hated by the media",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_49_6_25",
+        "object": "jew",
+        "stereotype": "people who write exclusively for Jewish news",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_50_6_26",
+        "object": "jew",
+        "stereotype": "people who have certain expectations",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_51_2_24",
+        "object": "muslim",
+        "stereotype": "people who are conspiring to join the Islamic State",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_52_2_25",
+        "object": "muslim",
+        "stereotype": "people who are jihadis and wage war",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_53_2_26",
+        "object": "muslim",
+        "stereotype": "people who want to kill those who tell truth, worship Jesus Christ, or draw",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_54_2_27",
+        "object": "muslim",
+        "stereotype": "people who are violent",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_55_2_28",
+        "object": "muslim",
+        "stereotype": "people who hate religions like islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_56_6_27",
+        "object": "jew",
+        "stereotype": "people who are media moguls",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_57_6_28",
+        "object": "jew",
+        "stereotype": "hypocritical people who promote anti-white agenda",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_58_2_29",
+        "object": "muslim",
+        "stereotype": "people who are infidels",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_59_2_30",
+        "object": "muslim",
+        "stereotype": "people who are trying to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_60_6_29",
+        "object": "jew",
+        "stereotype": "people who throw muslim + arab against white + christian",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_61_6_30",
+        "object": "jew",
+        "stereotype": "people who believe in the holocaust hoax",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_62_6_31",
+        "object": "jew",
+        "stereotype": "people associated with a think-tank with a paradoxical name",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_63_2_31",
+        "object": "muslim",
+        "stereotype": "people who are bad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_64_2_32",
+        "object": "muslim",
+        "stereotype": "people who believe in killing everything that is not Muslim",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_65_2_33",
+        "object": "muslim",
+        "stereotype": "people who hate chameleons and kill them instantly whenever they see them",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_66_2_34",
+        "object": "muslim",
+        "stereotype": "people who practice sharia",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_67_2_35",
+        "object": "muslim",
+        "stereotype": "people who cheer terror bombings in boston",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_68_6_32",
+        "object": "jew",
+        "stereotype": "people who keep non-jews out of Israel but push for non-whites to flood gentile lands",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_69_6_33",
+        "object": "jew",
+        "stereotype": "people who keep forcing diversity",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_70_6_34",
+        "object": "jew",
+        "stereotype": "people who killed over 70 million people at the same time",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_71_2_36",
+        "object": "muslim",
+        "stereotype": "people who commit rape and kill",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_72_6_35",
+        "object": "jew",
+        "stereotype": "people who are involved in a jewish racket",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_73_6_36",
+        "object": "jew",
+        "stereotype": "people who believe in the fake jewish 'holocaust' narrative of WWII",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_74_6_37",
+        "object": "jew",
+        "stereotype": "people who are clannish",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_75_2_37",
+        "object": "muslim",
+        "stereotype": "people who are radical and come out on the streets",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_76_2_38",
+        "object": "muslim",
+        "stereotype": "people who don't want to assimilate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_77_6_38",
+        "object": "jew",
+        "stereotype": "people who know who belongs in the white house",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_78_6_39",
+        "object": "jew",
+        "stereotype": "people who plot the downfall of white civilization",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_79_6_40",
+        "object": "jew",
+        "stereotype": "people who are chosen over white nationalists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_80_2_39",
+        "object": "muslim",
+        "stereotype": "people who follow a religion of peace",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_81_6_41",
+        "object": "jew",
+        "stereotype": "people who practice Jewish/Babylonian magic",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_82_2_40",
+        "object": "muslim",
+        "stereotype": "people who use Islamic phrases to kill, maim, and destroy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_83_6_42",
+        "object": "jew",
+        "stereotype": "people who believe in the coming second holocaust",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_84_6_43",
+        "object": "jew",
+        "stereotype": "people who instigate and spearhead wars",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_85_2_41",
+        "object": "muslim",
+        "stereotype": "people who lure unschooled into subjugation & abuse",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_86_2_42",
+        "object": "muslim",
+        "stereotype": "people who are invaders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_87_2_43",
+        "object": "muslim",
+        "stereotype": "people who are violent or terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_88_6_44",
+        "object": "jew",
+        "stereotype": "people who only consider and believe info from Jews and the establishment",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_89_6_45",
+        "object": "jew",
+        "stereotype": "people who are pushing wars",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_90_2_44",
+        "object": "muslim",
+        "stereotype": "people who were targeted in the crusades",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_91_2_45",
+        "object": "muslim",
+        "stereotype": "people who are radical",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_92_2_46",
+        "object": "muslim",
+        "stereotype": "people who warn the civilized world about the dangers of Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_93_2_47",
+        "object": "muslim",
+        "stereotype": "people who spit hate at everyone",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_94_2_48",
+        "object": "muslim",
+        "stereotype": "people who impose sharia law",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_95_6_46",
+        "object": "jew",
+        "stereotype": "people who are bolsheviks and zionists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_96_6_47",
+        "object": "jew",
+        "stereotype": "people who are neo cons",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_97_6_48",
+        "object": "jew",
+        "stereotype": "people who are white for the most parts",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_98_6_49",
+        "object": "jew",
+        "stereotype": "people who are wealthy and govern democracies",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_99_2_49",
+        "object": "muslim",
+        "stereotype": "people who want to do jihad and believe in killing infidels",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_100_2_50",
+        "object": "muslim",
+        "stereotype": "people who have a 'jew hate gene'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_101_2_51",
+        "object": "muslim",
+        "stereotype": "people who are extremists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_102_6_50",
+        "object": "jew",
+        "stereotype": "people who believe in zionism and jewish supremacy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_103_2_52",
+        "object": "muslim",
+        "stereotype": "people who are islamists/jihadis/terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_104_6_51",
+        "object": "jew",
+        "stereotype": "people who can live safely in a Palestinian state",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_105_6_52",
+        "object": "jew",
+        "stereotype": "people who spread lies",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_106_6_53",
+        "object": "jew",
+        "stereotype": "people who believe in jewish supremacy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_107_6_54",
+        "object": "jew",
+        "stereotype": "people who are part of the elites",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_108_2_53",
+        "object": "muslim",
+        "stereotype": "people who are against humanity",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_109_2_54",
+        "object": "muslim",
+        "stereotype": "people who commit terrorist crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_110_2_55",
+        "object": "muslim",
+        "stereotype": "people who practice Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_111_6_55",
+        "object": "jew",
+        "stereotype": "people who are chosen by God",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_112_2_56",
+        "object": "muslim",
+        "stereotype": "people who hate America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_113_6_56",
+        "object": "jew",
+        "stereotype": "people who run antifa",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_114_6_57",
+        "object": "jew",
+        "stereotype": "people who benefit from white privilege",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_115_6_58",
+        "object": "jew",
+        "stereotype": "people who hate white Christians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_116_2_57",
+        "object": "muslim",
+        "stereotype": "people who demand the extermination of the Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_117_6_59",
+        "object": "jew",
+        "stereotype": "people who organize the white privilege conference",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_118_1_2",
+        "object": "christian",
+        "stereotype": "people who hate Christians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_119_6_60",
+        "object": "jew",
+        "stereotype": "people who look, act, and think rather \"white\"",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_120_2_58",
+        "object": "muslim",
+        "stereotype": "people who follow the Quran's command to kill",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_121_6_61",
+        "object": "jew",
+        "stereotype": "people who have a lot of money and influence in politics",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_122_4_1",
+        "object": "hindu",
+        "stereotype": "people who were brought down to their knees to embrace Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_123_2_59",
+        "object": "muslim",
+        "stereotype": "people who are commanded to engage in war",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_124_6_62",
+        "object": "jew",
+        "stereotype": "people who have influence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_125_6_63",
+        "object": "jew",
+        "stereotype": "people who go too far and openly admit it",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_126_2_60",
+        "object": "muslim",
+        "stereotype": "people who are Islamic supremacists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_127_2_61",
+        "object": "muslim",
+        "stereotype": "people who commit jihad massacres of innocent civilians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_128_2_62",
+        "object": "muslim",
+        "stereotype": "people who enable jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_129_6_64",
+        "object": "jew",
+        "stereotype": "people who generate monetary gains",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_130_6_65",
+        "object": "jew",
+        "stereotype": "people who are associated with the Mossad, Talmud, usury, frauds, and the KKK",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_131_2_63",
+        "object": "muslim",
+        "stereotype": "people in the white house",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_132_2_64",
+        "object": "muslim",
+        "stereotype": "people who are weaponizing radical Islam to kill Western culture (white Christians)",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_133_2_65",
+        "object": "muslim",
+        "stereotype": "people who want to kill the jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_134_2_66",
+        "object": "muslim",
+        "stereotype": "people who read the Quran, the handbook of hate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_135_6_66",
+        "object": "jew",
+        "stereotype": "people who have power and control",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_136_2_67",
+        "object": "muslim",
+        "stereotype": "people who kill all other months",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_137_2_68",
+        "object": "muslim",
+        "stereotype": "people who recruit refugees",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_138_6_67",
+        "object": "jew",
+        "stereotype": "people who are not white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_139_6_68",
+        "object": "jew",
+        "stereotype": "people who are deceptive",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_140_6_69",
+        "object": "jew",
+        "stereotype": "people who are very unhappy about the upcoming white man march",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_141_6_70",
+        "object": "jew",
+        "stereotype": "people who support George Soros",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_142_2_69",
+        "object": "muslim",
+        "stereotype": "people who won't be a majority in 2050",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_143_2_70",
+        "object": "muslim",
+        "stereotype": "people who are part of a Bonnie and Clyde terrorist team",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_144_2_71",
+        "object": "muslim",
+        "stereotype": "people who do not want to see sharia or jihad against the infidel in ameri",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_145_6_71",
+        "object": "jew",
+        "stereotype": "people who is not white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_146_2_72",
+        "object": "muslim",
+        "stereotype": "people who call for full implementation of Islam and believe migrant influx helps build caliphate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_147_6_72",
+        "object": "jew",
+        "stereotype": "people who I don't care for",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_148_4_2",
+        "object": "hindu",
+        "stereotype": "people who are burned alive in Pakistan",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_149_6_73",
+        "object": "jew",
+        "stereotype": "people who are on the alt right",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_150_6_74",
+        "object": "jew",
+        "stereotype": "people who want a Jewish-only Israel",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_151_6_75",
+        "object": "jew",
+        "stereotype": "people who were involved in killing a jew",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_152_2_73",
+        "object": "muslim",
+        "stereotype": "people who are terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_153_2_74",
+        "object": "muslim",
+        "stereotype": "people who follow the life of the prophet",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_154_1_3",
+        "object": "christian",
+        "stereotype": "people who believe in not killing",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_155_2_75",
+        "object": "muslim",
+        "stereotype": "people who believe in not killing the unjustly",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_156_2_76",
+        "object": "muslim",
+        "stereotype": "people who are defended by Obama and blessed by Planned Parenthood",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_157_2_77",
+        "object": "muslim",
+        "stereotype": "people who follow Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_158_2_78",
+        "object": "muslim",
+        "stereotype": "people who attack hare krishna temple and assault devotees",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_159_1_4",
+        "object": "christian",
+        "stereotype": "people who worship a god that commanded people to kill gay and apostate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_160_2_79",
+        "object": "muslim",
+        "stereotype": "people who condone the actions of jihads based on the Quran",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_161_4_3",
+        "object": "hindu",
+        "stereotype": "people who are demonic in nature",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_162_2_80",
+        "object": "muslim",
+        "stereotype": "people who want to kill Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_163_2_81",
+        "object": "muslim",
+        "stereotype": "people who encroach public parks in the name of wakfboard and stop hindus from entering",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_164_2_82",
+        "object": "muslim",
+        "stereotype": "people who are trying to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_165_2_83",
+        "object": "muslim",
+        "stereotype": "people who have hatred towards Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_166_6_76",
+        "object": "jew",
+        "stereotype": "people who reject Christ and control social media",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_167_5_1",
+        "object": "catholic",
+        "stereotype": "people who aim at destroying white protestant America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_168_6_77",
+        "object": "jew",
+        "stereotype": "people who are communist and undermine white America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_169_6_78",
+        "object": "jew",
+        "stereotype": "people who are despised in the Quran and Hadith",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_170_6_79",
+        "object": "jew",
+        "stereotype": "people who are actively at war with the white race",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_171_6_80",
+        "object": "jew",
+        "stereotype": "people who run America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_172_2_84",
+        "object": "muslim",
+        "stereotype": "people who hate other muslims enough to kill them",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_173_6_81",
+        "object": "jew",
+        "stereotype": "people who identify as Jewish",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_174_6_82",
+        "object": "jew",
+        "stereotype": "people who work in the media to poison white brains",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_175_2_85",
+        "object": "muslim",
+        "stereotype": "people who read the Quran as evil",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_176_6_83",
+        "object": "jew",
+        "stereotype": "people who are communists and creators of a mind virus",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_177_2_86",
+        "object": "muslim",
+        "stereotype": "people who can bring peace",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_178_6_84",
+        "object": "jew",
+        "stereotype": "people who are part of a fake form of unity",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_179_2_87",
+        "object": "muslim",
+        "stereotype": "people who engage in jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_180_6_85",
+        "object": "jew",
+        "stereotype": "people who will be fought against by nationalists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_181_2_88",
+        "object": "muslim",
+        "stereotype": "people who want to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_182_6_86",
+        "object": "jew",
+        "stereotype": "people who believe everything belongs to them and if you're not a Muslim you have to die",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_183_6_87",
+        "object": "jew",
+        "stereotype": "people who only identify as 'white' when it serves their agenda",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_184_2_89",
+        "object": "muslim",
+        "stereotype": "people who donate millions and engage in violence against women and young girls",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_185_2_90",
+        "object": "muslim",
+        "stereotype": "people who say they'll kill us",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_186_6_88",
+        "object": "jew",
+        "stereotype": "people who don't want to live close to non-white invaders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_187_6_89",
+        "object": "jew",
+        "stereotype": "people who stage hate crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_188_2_91",
+        "object": "muslim",
+        "stereotype": "people who will not condemn Koranic verses",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_189_2_92",
+        "object": "muslim",
+        "stereotype": "people who do not vote for you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_190_2_93",
+        "object": "muslim",
+        "stereotype": "people who want to kill themselves",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_191_2_94",
+        "object": "muslim",
+        "stereotype": "people who hate injustice toward women, curtailing of free speech, warfare against non-muslims, and killing of apostates",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_192_2_95",
+        "object": "muslim",
+        "stereotype": "people who are commanded to kill the infidel",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_193_6_90",
+        "object": "jew",
+        "stereotype": "people who are criminals and responsible for 9/11",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_194_6_91",
+        "object": "jew",
+        "stereotype": "people who are victims of anti-Muslim bigotry and their cohorts",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_195_6_92",
+        "object": "jew",
+        "stereotype": "people who destroy white institutions",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_196_2_96",
+        "object": "muslim",
+        "stereotype": "people who hate the West",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_197_2_97",
+        "object": "muslim",
+        "stereotype": "people who are all about hate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_198_2_98",
+        "object": "muslim",
+        "stereotype": "people who support sharia punishments like crucifixion and amputation",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_199_3_1",
+        "object": "buddhist",
+        "stereotype": "people who have a mandate to kill Muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_200_2_99",
+        "object": "muslim",
+        "stereotype": "people who believe in advancing sharia",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_201_2_100",
+        "object": "muslim",
+        "stereotype": "people who have Islamic hate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_202_6_93",
+        "object": "jew",
+        "stereotype": "people who control the mainstream media",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_203_1_5",
+        "object": "christian",
+        "stereotype": "people who have destroyed 2/3 of christendom",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_204_2_101",
+        "object": "muslim",
+        "stereotype": "people who live in parallel societies and create no-go zones",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_205_2_102",
+        "object": "muslim",
+        "stereotype": "people who advocate killing white men",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_206_2_103",
+        "object": "muslim",
+        "stereotype": "people who follow an intolerant ideology",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_207_6_94",
+        "object": "jew",
+        "stereotype": "people who would place a bet",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_208_2_104",
+        "object": "muslim",
+        "stereotype": "people who engage in jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_209_6_95",
+        "object": "jew",
+        "stereotype": "people who are holocaust survivors",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_210_6_96",
+        "object": "jew",
+        "stereotype": "people who are responsible for 9/11",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_211_6_97",
+        "object": "jew",
+        "stereotype": "people who think money is the measure of everything",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_212_2_105",
+        "object": "muslim",
+        "stereotype": "people who are terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_213_2_106",
+        "object": "muslim",
+        "stereotype": "people who always feel provoked and offended",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_214_2_107",
+        "object": "muslim",
+        "stereotype": "people who con elderly into funding jihadis",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_215_6_98",
+        "object": "jew",
+        "stereotype": "people who are neocons",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_216_6_99",
+        "object": "jew",
+        "stereotype": "people who rule western nations and spread false narratives",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_217_2_108",
+        "object": "muslim",
+        "stereotype": "people who join an evil cult",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_218_6_100",
+        "object": "jew",
+        "stereotype": "people who bash themselves",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_219_2_109",
+        "object": "muslim",
+        "stereotype": "people who believe in submission",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_220_6_101",
+        "object": "jew",
+        "stereotype": "people who claim to be white when convenient",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_221_2_110",
+        "object": "muslim",
+        "stereotype": "people who enslave all races",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_222_1_6",
+        "object": "christian",
+        "stereotype": "people who kill others",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_223_6_102",
+        "object": "jew",
+        "stereotype": "people who have an agenda",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_224_2_111",
+        "object": "muslim",
+        "stereotype": "people who believe in the Quran",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_225_2_112",
+        "object": "muslim",
+        "stereotype": "people who believe that killing innocents is a sin",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_226_2_113",
+        "object": "muslim",
+        "stereotype": "people who are jihad enablers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_227_2_114",
+        "object": "muslim",
+        "stereotype": "people who are a threat or infiltrators",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_228_6_103",
+        "object": "jew",
+        "stereotype": "people who are leery but wish them well in Israel",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_229_2_115",
+        "object": "muslim",
+        "stereotype": "people who are radical Islamic jihadists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_230_2_116",
+        "object": "muslim",
+        "stereotype": "people who follow Islamic ideology",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_231_2_117",
+        "object": "muslim",
+        "stereotype": "people who defend Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_232_6_104",
+        "object": "jew",
+        "stereotype": "people who want war with arabs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_233_2_118",
+        "object": "muslim",
+        "stereotype": "people who practice Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_234_2_119",
+        "object": "muslim",
+        "stereotype": "people who are associated with terrorism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_235_2_120",
+        "object": "muslim",
+        "stereotype": "people who engage in jihad and commit acts of violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_236_2_121",
+        "object": "muslim",
+        "stereotype": "people who are hate preachers and want to kill us",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_237_2_122",
+        "object": "muslim",
+        "stereotype": "people who want global sharia",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_238_6_105",
+        "object": "jew",
+        "stereotype": "people who founded Tinder",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_239_2_123",
+        "object": "muslim",
+        "stereotype": "people who don't want peace with jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_240_6_106",
+        "object": "jew",
+        "stereotype": "people with a mindset of using Islamic to invade Christian Europe",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_241_2_124",
+        "object": "muslim",
+        "stereotype": "people who have waited a thousand years for the democratization of nations",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_242_2_125",
+        "object": "muslim",
+        "stereotype": "people who are commanded to kill",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_243_2_126",
+        "object": "muslim",
+        "stereotype": "people who kill fellow muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_244_2_127",
+        "object": "muslim",
+        "stereotype": "people who follow the teachings of the Quran",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_245_6_107",
+        "object": "jew",
+        "stereotype": "people who have power",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_246_2_128",
+        "object": "muslim",
+        "stereotype": "people who are taught to hate and kill others according to jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_247_2_129",
+        "object": "muslim",
+        "stereotype": "people who have ties to the Muslim Brotherhood",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_248_2_130",
+        "object": "muslim",
+        "stereotype": "people who are involved in terrorist activities",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_249_2_131",
+        "object": "muslim",
+        "stereotype": "people who want to kill us",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_250_2_132",
+        "object": "muslim",
+        "stereotype": "people who have a faith that requires them to subjugate or kill others",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_251_2_133",
+        "object": "muslim",
+        "stereotype": "people who kill",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_252_2_134",
+        "object": "muslim",
+        "stereotype": "people who are illegal immigrants and have a higher fertility rate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_253_2_135",
+        "object": "muslim",
+        "stereotype": "people who wear a ring with Arabic letters spelling out the beginning of the shahada",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_254_2_136",
+        "object": "muslim",
+        "stereotype": "people who murder six people including three-year-old boy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_255_2_137",
+        "object": "muslim",
+        "stereotype": "people who want to kill those who don't conform literally to the koran and hadith",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_256_2_138",
+        "object": "muslim",
+        "stereotype": "people who use blacks as their army to kill white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_257_2_139",
+        "object": "muslim",
+        "stereotype": "people who are commanded to kill all jews by Muhammad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_258_2_140",
+        "object": "muslim",
+        "stereotype": "people who believe in killing unbelievers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_259_2_141",
+        "object": "muslim",
+        "stereotype": "people who force native German children to cook & clean",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_260_6_108",
+        "object": "jew",
+        "stereotype": "people who control the federal reserve and manipulate and steal money",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_261_2_142",
+        "object": "muslim",
+        "stereotype": "people who are rapists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_262_2_143",
+        "object": "muslim",
+        "stereotype": "people who want to kill us",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_263_2_144",
+        "object": "muslim",
+        "stereotype": "people who talk about fastening their belt to reach heaven",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_264_2_145",
+        "object": "muslim",
+        "stereotype": "people who want to kill us and destroy our way of life",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_265_2_146",
+        "object": "muslim",
+        "stereotype": "people who are citizens in Israel",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_266_6_109",
+        "object": "jew",
+        "stereotype": "people who want white goyim to fight iranian goyim",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_267_6_110",
+        "object": "jew",
+        "stereotype": "people who emphatically claim not to be white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_268_6_111",
+        "object": "jew",
+        "stereotype": "people who are moving to Germany",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_269_6_112",
+        "object": "jew",
+        "stereotype": "people who pretend to be white when it suits their interests",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_270_2_147",
+        "object": "muslim",
+        "stereotype": "people who go to gay night clubs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_271_2_148",
+        "object": "muslim",
+        "stereotype": "people who support slavery",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_272_6_113",
+        "object": "jew",
+        "stereotype": "people who control America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_273_2_149",
+        "object": "muslim",
+        "stereotype": "people who kill",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_274_3_2",
+        "object": "buddhist",
+        "stereotype": "people who are meditating",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_275_2_150",
+        "object": "muslim",
+        "stereotype": "people who are raping their way across Europe",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_276_2_151",
+        "object": "muslim",
+        "stereotype": "people who want to kill all the jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_277_2_152",
+        "object": "muslim",
+        "stereotype": "people who want to kill 1 b hindus in 15 mins",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_278_2_153",
+        "object": "muslim",
+        "stereotype": "people who commit rape",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_279_2_154",
+        "object": "muslim",
+        "stereotype": "people who change books",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_280_6_114",
+        "object": "jew",
+        "stereotype": "treacherous and scheming people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_281_6_115",
+        "object": "jew",
+        "stereotype": "people who work for Israel",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_282_6_116",
+        "object": "jew",
+        "stereotype": "people who have control",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_283_6_117",
+        "object": "jew",
+        "stereotype": "people who are shouted at during a brutal event",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_284_1_7",
+        "object": "christian",
+        "stereotype": "people who are targeted by Boko Haram",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_285_2_155",
+        "object": "muslim",
+        "stereotype": "people who are walking timebombs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_286_6_118",
+        "object": "jew",
+        "stereotype": "people pretending to be white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_287_2_156",
+        "object": "muslim",
+        "stereotype": "people who chant 'allahu akbar'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_288_6_119",
+        "object": "jew",
+        "stereotype": "people who are called 'coward pig'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_289_6_120",
+        "object": "jew",
+        "stereotype": "people who Hitler would be proud of",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_290_2_157",
+        "object": "muslim",
+        "stereotype": "people who hate Christians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_291_2_158",
+        "object": "muslim",
+        "stereotype": "people who are scared",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_292_2_159",
+        "object": "muslim",
+        "stereotype": "people who engage in jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_293_2_160",
+        "object": "muslim",
+        "stereotype": "people who stormed church screaming 'I will kill you and kill all the English'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_294_6_121",
+        "object": "jew",
+        "stereotype": "people who are exploiting fashion conscious white girls",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_295_2_161",
+        "object": "muslim",
+        "stereotype": "people who worship a different Allah",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_296_6_122",
+        "object": "jew",
+        "stereotype": "people who are not considered white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_297_2_162",
+        "object": "muslim",
+        "stereotype": "people who are part of a hate group that hates Muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_298_1_8",
+        "object": "christian",
+        "stereotype": "people who worship a god that commanded people to kill gay and apostate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_299_6_123",
+        "object": "jew",
+        "stereotype": "people who dismiss black on white rape",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_300_6_124",
+        "object": "jew",
+        "stereotype": "prominent people who are Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_301_1_9",
+        "object": "christian",
+        "stereotype": "people who dishonor kinslayers as their ancestors always did",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_302_6_125",
+        "object": "jew",
+        "stereotype": "people who are of Jewish faith",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_303_2_163",
+        "object": "muslim",
+        "stereotype": "people who believe gender equality is un-islamic and women are only fit to give birth",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_304_1_10",
+        "object": "christian",
+        "stereotype": "people who are tortured in their own churches",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_305_2_164",
+        "object": "muslim",
+        "stereotype": "people who are trying to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_306_2_165",
+        "object": "muslim",
+        "stereotype": "people who reach higher places",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_307_2_166",
+        "object": "muslim",
+        "stereotype": "people who commit killings in the name of Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_308_6_126",
+        "object": "jew",
+        "stereotype": "people who fund the zoo",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_309_2_167",
+        "object": "muslim",
+        "stereotype": "people who are offended by the mere existence of infidels",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_310_2_168",
+        "object": "muslim",
+        "stereotype": "people who are messed up",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_311_6_127",
+        "object": "jew",
+        "stereotype": "people working against middle class and poor whites",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_312_6_128",
+        "object": "jew",
+        "stereotype": "people who said it was time to wound white people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_313_6_129",
+        "object": "jew",
+        "stereotype": "people who work in the press",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_314_2_169",
+        "object": "muslim",
+        "stereotype": "people who follow evil shariah based muslim personal law",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_315_2_170",
+        "object": "muslim",
+        "stereotype": "people who are involved in shootings",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_316_2_171",
+        "object": "muslim",
+        "stereotype": "people who are terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_317_6_130",
+        "object": "jew",
+        "stereotype": "people who are part of a population",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_318_6_131",
+        "object": "jew",
+        "stereotype": "people who have hostility and contempt for the white man and his civilization",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_319_6_132",
+        "object": "jew",
+        "stereotype": "people who are hated by Muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_320_6_133",
+        "object": "jew",
+        "stereotype": "people who have a common enemy with muslims, which is white christians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_321_2_172",
+        "object": "muslim",
+        "stereotype": "people who openly study Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_322_2_173",
+        "object": "muslim",
+        "stereotype": "people who follow a political doctrine and interpret the Quran as promoting violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_323_2_174",
+        "object": "muslim",
+        "stereotype": "people who play a game of gang raping a woman",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_324_6_134",
+        "object": "jew",
+        "stereotype": "people who hate white advocacy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_325_2_175",
+        "object": "muslim",
+        "stereotype": "people who scream allahu akbar & kill the jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_326_5_2",
+        "object": "catholic",
+        "stereotype": "people who resist jihad terror",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_327_2_176",
+        "object": "muslim",
+        "stereotype": "people speaking out on the dangers of Islam to the West",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_328_4_4",
+        "object": "hindu",
+        "stereotype": "fascist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_329_3_3",
+        "object": "buddhist",
+        "stereotype": "terrorist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_330_6_135",
+        "object": "jew",
+        "stereotype": "capitalist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_331_6_136",
+        "object": "jew",
+        "stereotype": "people who are smarter and have distinct personality traits they tend to share that makes them successful",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_332_2_177",
+        "object": "muslim",
+        "stereotype": "people who come after us",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_333_6_137",
+        "object": "jew",
+        "stereotype": "people who support zionism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_334_2_178",
+        "object": "muslim",
+        "stereotype": "people who are instructed to kill",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_335_6_138",
+        "object": "jew",
+        "stereotype": "people who declare war on Germany",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_336_2_179",
+        "object": "muslim",
+        "stereotype": "people who are trying to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_337_2_180",
+        "object": "muslim",
+        "stereotype": "people who promote violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_338_2_181",
+        "object": "muslim",
+        "stereotype": "people who are going to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_339_6_139",
+        "object": "jew",
+        "stereotype": "people who work for slate or even twitter",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_340_6_140",
+        "object": "jew",
+        "stereotype": "people who have money and fund far-left radicals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_341_6_141",
+        "object": "jew",
+        "stereotype": "people in the Obama administration",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_342_2_182",
+        "object": "muslim",
+        "stereotype": "people who practice lynching",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_343_2_183",
+        "object": "muslim",
+        "stereotype": "people who attack",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_344_2_184",
+        "object": "muslim",
+        "stereotype": "people who hate jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_345_2_185",
+        "object": "muslim",
+        "stereotype": "people who attend Nation of Islam mosque",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_346_6_142",
+        "object": "jew",
+        "stereotype": "people who demand open borders, forced multiculturalism, etc in the west",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_347_2_186",
+        "object": "muslim",
+        "stereotype": "people who wear hijab",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_348_2_187",
+        "object": "muslim",
+        "stereotype": "people who wield machetes and injure multiple patrons at a restaurant owned by a pro-Israel Arab Christian",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_349_2_188",
+        "object": "muslim",
+        "stereotype": "people who are invaders",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_350_2_189",
+        "object": "muslim",
+        "stereotype": "people who are apologists for Islamic supremacism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_351_2_190",
+        "object": "muslim",
+        "stereotype": "people who have ties to nefarious Islamic groups",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_352_6_143",
+        "object": "jew",
+        "stereotype": "people who are behind Miley Cyrus antics",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_353_2_191",
+        "object": "muslim",
+        "stereotype": "people who live in the White House",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_354_2_192",
+        "object": "muslim",
+        "stereotype": "people who are jihad enablers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_355_2_193",
+        "object": "muslim",
+        "stereotype": "people in general",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_356_6_144",
+        "object": "jew",
+        "stereotype": "people who proliferate perceived racism and anti-white agenda",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_357_6_145",
+        "object": "jew",
+        "stereotype": "people who are communist and hate Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_358_6_146",
+        "object": "jew",
+        "stereotype": "people who are targeted with hate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_359_2_194",
+        "object": "muslim",
+        "stereotype": "people who follow Sharia law",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_360_6_147",
+        "object": "jew",
+        "stereotype": "people who were trusted as 'white' but their actions were ignored",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_361_2_195",
+        "object": "muslim",
+        "stereotype": "people who commit sexual violence against animals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_362_2_196",
+        "object": "muslim",
+        "stereotype": "people who are trying to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_363_2_197",
+        "object": "muslim",
+        "stereotype": "people who are trying to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_364_6_148",
+        "object": "jew",
+        "stereotype": "people who support islamification",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_365_2_198",
+        "object": "muslim",
+        "stereotype": "people who are rapists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_366_6_149",
+        "object": "jew",
+        "stereotype": "people who plead guilty on behalf of Austrians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_367_6_150",
+        "object": "jew",
+        "stereotype": "people who push for non-white immigration",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_368_6_151",
+        "object": "jew",
+        "stereotype": "people who take great offense to being called white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_369_2_199",
+        "object": "muslim",
+        "stereotype": "people who are told to kill all nonbelievers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_370_2_200",
+        "object": "muslim",
+        "stereotype": "people who can kill thousands and millions without making noise",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_371_6_152",
+        "object": "jew",
+        "stereotype": "people who are not white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_372_2_201",
+        "object": "muslim",
+        "stereotype": "people who want to kill Christians and Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_373_2_202",
+        "object": "muslim",
+        "stereotype": "people who believe in a distorted version of the Quran",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_374_2_203",
+        "object": "muslim",
+        "stereotype": "people who believe in the truth of the Koran",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_375_2_204",
+        "object": "muslim",
+        "stereotype": "people who would happily behead him",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_376_2_205",
+        "object": "muslim",
+        "stereotype": "people who hate us",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_377_2_206",
+        "object": "muslim",
+        "stereotype": "people who believe that they should humiliate Christians to convert them to Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_378_6_153",
+        "object": "jew",
+        "stereotype": "people who want access to all white countries",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_379_4_5",
+        "object": "hindu",
+        "stereotype": "people who are known for their anti-Indian, anti-Hindu, pro-Islam posts",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_380_2_207",
+        "object": "muslim",
+        "stereotype": "people who would never waver from the teachings he picked up in the mosque",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_381_6_154",
+        "object": "jew",
+        "stereotype": "people who are involved in the alleged Holocaust",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_382_6_155",
+        "object": "jew",
+        "stereotype": "people who work in the White House",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_383_6_156",
+        "object": "jew",
+        "stereotype": "people who resurrect the 'war on coal'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_384_6_157",
+        "object": "jew",
+        "stereotype": "people who resurrect the 'war on coal' via Gary Cohn",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_385_6_158",
+        "object": "jew",
+        "stereotype": "people who deny the Holocaust",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_386_2_208",
+        "object": "muslim",
+        "stereotype": "people who are Islamic supremacists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_387_6_159",
+        "object": "jew",
+        "stereotype": "people who advocate for a Jewish state",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_388_2_209",
+        "object": "muslim",
+        "stereotype": "people who commit racially motivated hate crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_389_6_160",
+        "object": "jew",
+        "stereotype": "people who believe in the jew conspiracy",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_390_6_161",
+        "object": "jew",
+        "stereotype": "people who call for white countries to allow all palestinians to move there",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_391_1_11",
+        "object": "christian",
+        "stereotype": "people who fulfill a hate agenda against 1",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_392_6_162",
+        "object": "jew",
+        "stereotype": "rich people who stir up attacks against white Americans",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_393_6_163",
+        "object": "jew",
+        "stereotype": "people who admit to white genocide being their goal",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_394_2_210",
+        "object": "muslim",
+        "stereotype": "people who support Islamic jihad in America and are feminist and pro-gay until Muslims are the majority",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_395_2_211",
+        "object": "muslim",
+        "stereotype": "people who are terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_396_2_212",
+        "object": "muslim",
+        "stereotype": "people who commit hate crimes against jews every time they visit a mosque and pray to kill the jew behind them",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_397_2_213",
+        "object": "muslim",
+        "stereotype": "people who are part of the Muslim Brotherhood",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_398_6_164",
+        "object": "jew",
+        "stereotype": "people who have a Jewish background",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_399_2_214",
+        "object": "muslim",
+        "stereotype": "people who are Islamists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_400_2_215",
+        "object": "muslim",
+        "stereotype": "people who believe in killing gay people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_401_6_165",
+        "object": "jew",
+        "stereotype": "people who claim Jews are entitled to control the media",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_402_6_166",
+        "object": "jew",
+        "stereotype": "people who is a federal judge",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_403_6_167",
+        "object": "jew",
+        "stereotype": "people who wage war on Nordic Sweden",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_404_6_168",
+        "object": "jew",
+        "stereotype": "people who practice vulture capitalism and corporatism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_405_2_216",
+        "object": "muslim",
+        "stereotype": "people who slaughter buddhist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_406_2_217",
+        "object": "muslim",
+        "stereotype": "people who follow Sharia law",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_407_6_169",
+        "object": "jew",
+        "stereotype": "people promoting ADL/SPLC and assisting in having Jihad Watch",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_408_6_170",
+        "object": "jew",
+        "stereotype": "people who used homosexuals and blacks to take down white america",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_409_6_171",
+        "object": "jew",
+        "stereotype": "people of the Jewish faith",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_410_2_218",
+        "object": "muslim",
+        "stereotype": "people who are potential terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_411_6_172",
+        "object": "jew",
+        "stereotype": "Jewish people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_412_2_219",
+        "object": "muslim",
+        "stereotype": "people who will try to kill you",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_413_2_220",
+        "object": "muslim",
+        "stereotype": "people who have no problem with selling drugs and alcohol to non muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_414_6_173",
+        "object": "jew",
+        "stereotype": "people who want their own ethnostate and laugh at others",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_415_2_221",
+        "object": "muslim",
+        "stereotype": "people who engage in jihad/martyrdom and commit suicide bombings",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_416_6_174",
+        "object": "jew",
+        "stereotype": "people who claim to be Holocaust survivors",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_417_6_175",
+        "object": "jew",
+        "stereotype": "people with power and influence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_418_2_222",
+        "object": "muslim",
+        "stereotype": "people who kill and fly airplanes into buildings",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_419_6_176",
+        "object": "jew",
+        "stereotype": "people who run Google soliciting donations to support non-white invasion of Europe",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_420_6_177",
+        "object": "jew",
+        "stereotype": "brave people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_421_6_178",
+        "object": "jew",
+        "stereotype": "people who are in full control",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_422_6_179",
+        "object": "jew",
+        "stereotype": "people who instigate and radicalize other racial minorities against white societies",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_423_2_223",
+        "object": "muslim",
+        "stereotype": "people who slash NY cop with cleaver",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_424_2_224",
+        "object": "muslim",
+        "stereotype": "people who support jihad violence in the UK",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_425_2_225",
+        "object": "muslim",
+        "stereotype": "people who are part of the Muslim Brotherhood",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_426_2_226",
+        "object": "muslim",
+        "stereotype": "people who commit jihad suicide car bomb attacks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_427_6_180",
+        "object": "jew",
+        "stereotype": "people who want a black on white race war",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_428_2_227",
+        "object": "muslim",
+        "stereotype": "people who blow up Europeans",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_429_6_181",
+        "object": "jew",
+        "stereotype": "people who work in the media",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_430_2_228",
+        "object": "muslim",
+        "stereotype": "people who are commanded to kill disbelievers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_431_2_229",
+        "object": "muslim",
+        "stereotype": "people who believe it is their religious duty to rid the world of women permanently",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_432_2_230",
+        "object": "muslim",
+        "stereotype": "people who engage in jihad terror on American soil",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_433_2_231",
+        "object": "muslim",
+        "stereotype": "people who are commanded to kill and rape nonbelievers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_434_6_182",
+        "object": "jew",
+        "stereotype": "people who are involved in negative events",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_435_2_232",
+        "object": "muslim",
+        "stereotype": "people who think that they can kill others in the name of Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_436_2_233",
+        "object": "muslim",
+        "stereotype": "people who resist jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_437_6_183",
+        "object": "jew",
+        "stereotype": "finance shark",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_438_6_184",
+        "object": "jew",
+        "stereotype": "people who feign ignorance and hide their knowledge",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_439_2_234",
+        "object": "muslim",
+        "stereotype": "people who plot to kidnap soldiers and murder Christians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_440_2_235",
+        "object": "muslim",
+        "stereotype": "people who follow a violent ideology that urges followers to kill people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_441_2_236",
+        "object": "muslim",
+        "stereotype": "people who are trying to invade and force conversion by any means",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_442_6_185",
+        "object": "jew",
+        "stereotype": "people who are Azerbeidjani (Kazar) and have white appearance but black hair",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_443_6_186",
+        "object": "jew",
+        "stereotype": "people who are sensitive about capitalization of the letter 'j'",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_444_6_187",
+        "object": "jew",
+        "stereotype": "people who dominate Hollywood, the news media, the entertainment media, and the publishing industry",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_445_2_237",
+        "object": "muslim",
+        "stereotype": "people who live in a ghetto",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_446_6_188",
+        "object": "jew",
+        "stereotype": "people who hate white christians even more than muslims",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_447_6_189",
+        "object": "jew",
+        "stereotype": "people who live in New York",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_448_6_190",
+        "object": "jew",
+        "stereotype": "people who are happy about anti-white propaganda",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_449_2_238",
+        "object": "muslim",
+        "stereotype": "people who attack mosques or protests",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_450_6_191",
+        "object": "jew",
+        "stereotype": "people who is larping as a white man larping a catholic priest",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_451_6_192",
+        "object": "jew",
+        "stereotype": "people who practice Kabala",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_452_2_239",
+        "object": "muslim",
+        "stereotype": "people who enter new territories with the purpose of destruction",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_453_6_193",
+        "object": "jew",
+        "stereotype": "people who hate white males",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_454_2_240",
+        "object": "muslim",
+        "stereotype": "people who have already warned us",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_455_6_194",
+        "object": "jew",
+        "stereotype": "people who are supremacists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_456_2_241",
+        "object": "muslim",
+        "stereotype": "people who want to kill children",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_457_6_195",
+        "object": "jew",
+        "stereotype": "people who were victims of the Holocaust",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_458_2_242",
+        "object": "muslim",
+        "stereotype": "people who are more accepting of gays than white evangelicals",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_459_6_196",
+        "object": "jew",
+        "stereotype": "people who believe in the fake 'holocaust' narrative",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_460_6_197",
+        "object": "jew",
+        "stereotype": "people who are not 'real' or 'liberal' Jews",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_461_2_243",
+        "object": "muslim",
+        "stereotype": "people who fake hate attacks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_462_6_198",
+        "object": "jew",
+        "stereotype": "people who are bought politicians",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_463_2_244",
+        "object": "muslim",
+        "stereotype": "people who murder Jewish people",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_464_2_245",
+        "object": "muslim",
+        "stereotype": "people who sexually assault women",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_465_6_199",
+        "object": "jew",
+        "stereotype": "people who are named",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_466_2_246",
+        "object": "muslim",
+        "stereotype": "people who believe sharia law supersedes the constitution",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_467_2_247",
+        "object": "muslim",
+        "stereotype": "people who question the reality of the holocaust",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_468_2_248",
+        "object": "muslim",
+        "stereotype": "people who teach kids to hate and kill all infidels",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_469_6_200",
+        "object": "jew",
+        "stereotype": "people who meddle in white affairs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_470_6_201",
+        "object": "jew",
+        "stereotype": "people who are stupid employees and poor white collar working class lemmings",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_471_6_202",
+        "object": "jew",
+        "stereotype": "people who are involved in financial crimes",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_472_2_249",
+        "object": "muslim",
+        "stereotype": "people who are offended by feminists and conservatives",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_473_1_12",
+        "object": "christian",
+        "stereotype": "people who support sharia law",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_474_2_250",
+        "object": "muslim",
+        "stereotype": "people in the white house",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_475_1_13",
+        "object": "christian",
+        "stereotype": "people who are targeted for killing by Boko Haram",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_476_2_251",
+        "object": "muslim",
+        "stereotype": "people who engage in human trafficking",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_477_2_252",
+        "object": "muslim",
+        "stereotype": "people who commit acts of violence in the name of jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_478_6_203",
+        "object": "jew",
+        "stereotype": "people who control the media",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_479_6_204",
+        "object": "jew",
+        "stereotype": "people who is a jew",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_480_6_205",
+        "object": "jew",
+        "stereotype": "people who are asked for their opinion",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_481_2_253",
+        "object": "muslim",
+        "stereotype": "people who hate Jews and infidels",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_482_2_254",
+        "object": "muslim",
+        "stereotype": "people who are Islamists embedded in the White House",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_483_6_206",
+        "object": "jew",
+        "stereotype": "people who exploit others",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_484_6_207",
+        "object": "jew",
+        "stereotype": "people who resist the Jew World Order",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_485_6_208",
+        "object": "jew",
+        "stereotype": "people who are terrorists or serial killers pretending to be white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_486_6_209",
+        "object": "jew",
+        "stereotype": "people who are not white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_487_6_210",
+        "object": "jew",
+        "stereotype": "people who invented conscience and practice circumcision",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_488_6_211",
+        "object": "jew",
+        "stereotype": "people who are notoriously anti-white",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_489_2_255",
+        "object": "muslim",
+        "stereotype": "people who force Islam on others and kill those who renounce it or follow other faiths",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_490_6_212",
+        "object": "jew",
+        "stereotype": "people who run the media and promote 'white guilt' to paralyze white power",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_491_6_213",
+        "object": "jew",
+        "stereotype": "people who lie about Henry Ford",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_492_6_214",
+        "object": "jew",
+        "stereotype": "people who are international bankers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_493_6_215",
+        "object": "jew",
+        "stereotype": "people who are war mongers",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_494_6_216",
+        "object": "jew",
+        "stereotype": "people who are exposed by Father Coughlin",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_495_6_217",
+        "object": "jew",
+        "stereotype": "people who are shouted during sexual assault",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_496_2_256",
+        "object": "muslim",
+        "stereotype": "people who are moderate",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_497_6_218",
+        "object": "jew",
+        "stereotype": "people who generate revenue",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_498_2_257",
+        "object": "muslim",
+        "stereotype": "people who plan 'trojan horse' strategy to oust non-muslim headteachers and turn schools into muslim",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_499_2_258",
+        "object": "muslim",
+        "stereotype": "people who sexually assault children",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_500_2_259",
+        "object": "muslim",
+        "stereotype": "people who bomb Arizona social security office with IED",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_501_2_260",
+        "object": "muslim",
+        "stereotype": "people who are plotting jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_502_2_261",
+        "object": "muslim",
+        "stereotype": "people who discuss jihad and muslim rape gangs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_503_6_219",
+        "object": "jew",
+        "stereotype": "people who run the white nationalist movement",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_504_6_220",
+        "object": "jew",
+        "stereotype": "people who believe in communism",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_505_2_262",
+        "object": "muslim",
+        "stereotype": "people who want to kill the infidel and torture them",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_506_4_6",
+        "object": "hindu",
+        "stereotype": "people who worship fire",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_507_2_263",
+        "object": "muslim",
+        "stereotype": "people who kill kafirs",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_508_6_221",
+        "object": "jew",
+        "stereotype": "people who defend the right of white gentiles to exist",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_509_2_264",
+        "object": "muslim",
+        "stereotype": "people who have special privileges in the UK",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_510_2_265",
+        "object": "muslim",
+        "stereotype": "people who are terrorists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_511_6_222",
+        "object": "jew",
+        "stereotype": "people who claim to be a holocaust survivor and have escaped Auschwitz",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_512_6_223",
+        "object": "jew",
+        "stereotype": "people who find television good",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_513_2_266",
+        "object": "muslim",
+        "stereotype": "people who practice gender segregation",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_514_6_224",
+        "object": "jew",
+        "stereotype": "people who control Stalin and Roosevelt",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_515_2_267",
+        "object": "muslim",
+        "stereotype": "people who practice a peaceful religion",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_516_2_268",
+        "object": "muslim",
+        "stereotype": "people in the white house",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_517_2_269",
+        "object": "muslim",
+        "stereotype": "people who kill babies in the name of Allah",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_518_1_14",
+        "object": "christian",
+        "stereotype": "people who hate christianity",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_519_2_270",
+        "object": "muslim",
+        "stereotype": "people who believe in Sharia law",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_520_2_271",
+        "object": "muslim",
+        "stereotype": "people who will conquer the world",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_521_2_272",
+        "object": "muslim",
+        "stereotype": "people who are naive & ignorant about Islam",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_522_2_273",
+        "object": "muslim",
+        "stereotype": "people who wear hijab",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_523_2_274",
+        "object": "muslim",
+        "stereotype": "people who use the Quran as a recruiting tool",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_524_2_275",
+        "object": "muslim",
+        "stereotype": "people who are refujihadists",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_525_2_276",
+        "object": "muslim",
+        "stereotype": "people who have more children than anyone else and believe apostasy is punishable by death or disownment by their community",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_526_2_277",
+        "object": "muslim",
+        "stereotype": "people who practice a sick religion",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_527_2_278",
+        "object": "muslim",
+        "stereotype": "people who are potential jihadis",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_528_2_279",
+        "object": "muslim",
+        "stereotype": "people who use their god during attacks",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_529_6_225",
+        "object": "jew",
+        "stereotype": "people who are targeted for their religion",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_530_2_280",
+        "object": "muslim",
+        "stereotype": "people who have mainstream views on the murder of gays",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_531_6_226",
+        "object": "jew",
+        "stereotype": "people who vow complete annihilation of Democratic Party in America",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_532_2_281",
+        "object": "muslim",
+        "stereotype": "people who shout 'Allahu Akbar' and commit acts of violence",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_533_6_227",
+        "object": "jew",
+        "stereotype": "people who have animus against Christians and want them erased",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_534_6_228",
+        "object": "jew",
+        "stereotype": "people who is extremely Jewish",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_535_2_282",
+        "object": "muslim",
+        "stereotype": "people who believe in Jihad",
+        "source": "IHC"
+      },
+      {
+        "pair_id": "3_536_2_283",
+        "object": "muslim",
+        "stereotype": "people who follow Islam",
+        "source": "IHC"
+      }
+    ]
+  }
+}
